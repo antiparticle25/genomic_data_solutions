@@ -13,8 +13,8 @@ This project involves the creation of a graph database (**Neo4j**) that aggregat
 Flexibility in querying detailed information about studies and researchers in the database:
 
 <div>
-  <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/general_to_study.gif?raw=true" alt="Studies from Journals" style="width: 49%; float: left;">
-  <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/country_to_study.gif?raw=true" alt="Researchers by Location" style="width: 49%; float: right;">
+  <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/general_to_study.gif?raw=true" alt="Studies from Journals" style="width: 70%; float: left;">
+  <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/country_to_study.gif?raw=true" alt="Researchers by Location" style="width: 70%; float: right;">
 </div>
 
 <p style="font-size: 18px;">Check <a href="https://drive.google.com/file/d/14Qx4DzydU5uWo9ttAsMsMSX_Tsiq3b6x/view?usp=drive_link"><strong>here</strong></a> and <a href="https://drive.google.com/file/d/1OgZKWGWOV03JPGYA-DNNbyjW1ZKa6eBg/view?usp=drive_link"><strong>here</strong></a> for videos.</p>
@@ -71,7 +71,6 @@ Planned upgrades include:
 - **Chatbot Development**: Providing sequencing service advice, recommending techniques tailored to specific needs.
 
 
-![General to Study GIF](https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/general_to_study.gif?raw=true)
 
 
 ```python
