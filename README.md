@@ -62,7 +62,7 @@ Through prompt engineering, it is possible to generate automated business messag
 By linking this structured data and similarity analysis with large language models (LLMs), the developed system enables:
 - **Automated lead generation**: Tailoring business intereactions with researchers and institutions based on their current work and interests.
 - **Strategic expansion**: Understanding current client needs to identify potential new customers with similar research profiles.
-- **Resource optimization**: Arming business representatives with data-driven insights prior to client visits, ensuring targeted discussions about relevant research and needs.
+- **Resource optimization**: Providing business representatives with data-driven insights prior to client visits, ensuring targeted discussions about relevant research and needs.
 
 ## Future Enhancements
 Planned upgrades include:
