@@ -30,7 +30,7 @@ This approach enables:
 By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content.
 
 ### Visualization
-Dimensionality reduction (UMAP) of all scRNA-seq studies in Europe provides a visual representation of the data clustering, in this case COVID-19 and remaining studies
+Dimensionality reduction (UMAP) of all scRNA-seq studies in Europe provides a visual representation of the data clustering, in this case single-cell RNA-sequencing COVID-19 and remaining studies
 
 <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/scRNA_covid.png?raw=true" width="600" alt="UMAP Visualization of scRNA-seq Studies">
 
