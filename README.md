@@ -34,7 +34,7 @@ Dimensionality reduction (UMAP) of a subset of scRNA-seq studies in Europe provi
 
 <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/scRNA_covid.png?raw=true" width="600" alt="UMAP Visualization of scRNA-seq Studies">
 
-## Automated Business Messaging
+### Automated Business Messaging
 Through prompt engineering, it is possible to generate automated business messages tailored to specific research topics. Here's a **zero-shot** example using an outdated LLM:
 
 
