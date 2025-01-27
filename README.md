@@ -1,4 +1,4 @@
-# 📊 Development of Analytics Tools supporting Business Development in Genomics
+# 📊 Development of Analytics Tools Supporting Business Development in Genomics
 
 
 ## Overview
@@ -25,6 +25,9 @@ This approach enables:
 - **Pinpointing** the institutions and countries where these researchers are located.
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
+
+### Taking an overarching view on sequencing platforms across key companies (DNA/RNA-seq):
+<iframe src="files/sequencing_companies.html" width="100%" height="500px"></iframe>
 
 
 ## Integration with LLM Tools
