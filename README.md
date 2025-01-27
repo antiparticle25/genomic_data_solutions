@@ -27,9 +27,7 @@ This approach enables:
 - **Analyzing** trends across different journals and subjects over time.
 
 Taking an overarching view on sequencing platforms across key companies (DNA/RNA-seq):
-
-<iframe src="https://antiparticle25.github.io/genomic_data_solutions/files/sequencing_companies.html" width="100%" height="500px"></iframe>
-
+![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
 ## Integration with LLM Tools
 By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content.
