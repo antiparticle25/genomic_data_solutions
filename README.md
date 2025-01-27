@@ -26,8 +26,10 @@ This approach enables:
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
 
-### Taking an overarching view on sequencing platforms across key companies (DNA/RNA-seq):
-<iframe src="files/sequencing_companies.html" width="100%" height="500px"></iframe>
+Taking an overarching view on sequencing platforms across key companies (DNA/RNA-seq):
+
+<iframe src="https://antiparticle25.github.io/genomic_data_solutions/files/sequencing_companies.html" width="100%" height="500px"></iframe>
+
 
 
 ## Integration with LLM Tools
