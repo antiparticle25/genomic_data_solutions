@@ -30,6 +30,11 @@ Taking an overarching view on sequencing platforms across key companies (DNA/RNA
 
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
+...we can also take a deeper look at the evolution of sequencing platforms, for instance Illumina:
+
+![Occurrences of Sequencing Companies](files/fig_illumina.png)
+
+
 ## Integration with LLM Tools
 By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content.
 
