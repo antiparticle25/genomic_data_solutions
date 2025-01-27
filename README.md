@@ -21,10 +21,11 @@ Flexibility in querying detailed information about studies and researchers in th
 
 ## Trend Analysis
 This approach enables:
-- **Identification** of researchers working on specific sequencing techniques.
+- **Identification** of trends and researchers working on specific sequencing techniques.
 - **Pinpointing** the institutions and countries where these researchers are located.
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
+
 
 ## Integration with LLM Tools
 By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content.
