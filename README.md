@@ -27,6 +27,7 @@ This approach enables:
 - **Analyzing** trends across different journals and subjects over time.
 
 Taking an overarching view on sequencing platforms across key companies (DNA/RNA-seq):
+
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
 ## Integration with LLM Tools
