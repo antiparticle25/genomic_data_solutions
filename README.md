@@ -32,7 +32,7 @@ Taking an overarching view on sequencing platforms across key companies (DNA/RNA
 
 ...we can also take a deeper look at the evolution of sequencing platforms, for instance Illumina:
 
-
+![Evolution of Illumina Sequencing Platforms](files/fig_illumina.png)
 
 
 ## Integration with LLM Tools
