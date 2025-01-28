@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project involves the creation of a graph database (**Neo4j**) that aggregates and organizes scientific studies focused on the most prominent sequencing techniques, including **RNA-seq**, **scRNA-seq**, **Spatial Transcriptomics**, **Whole Genome (WGS)**, and **Whole Exome (WES) sequencing**, **ATAC-seq**, **ChIP-seq**, and **TCR-seq**. The structure is designed for adaptability and can easily be transferred to SQL-based relational databases.
+The starting point of this project involves the creation of a graph database (**Neo4j**) that aggregates and organizes scientific studies focused on the most prominent sequencing techniques, including **RNA-seq**, **scRNA-seq**, **Spatial Transcriptomics**, **Whole Genome (WGS)**, and **Whole Exome (WES) sequencing**, **ATAC-seq**, **ChIP-seq**, and **TCR-seq**. The structure is designed for adaptability and can easily be transferred to SQL-based relational databases.
 
 
 
