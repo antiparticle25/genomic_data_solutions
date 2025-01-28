@@ -26,11 +26,11 @@ This approach enables:
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
 
-As a simple example, we can taking an overarching view on sequencing platforms across key companies (NGS/Long-read/Third-generation):
+As a simple example, we can taking an overarching view on **sequencing platforms across key companies (NGS/Long-read/Third-generation):**
 
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
-...and also look at the evolution of their platforms...
+...and also look at the **evolution of their platforms**...
 
 <details>
   <summary><b>Sequencing Platforms Overview</b></summary>
@@ -43,7 +43,7 @@ As a simple example, we can taking an overarching view on sequencing platforms a
   </p>
 </details>
 
-...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
+...or **single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.**
 
 <details>
   <summary><b>Single-read and Paired-end/WGS vs WES</b></summary>
