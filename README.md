@@ -42,7 +42,10 @@ Taking an overarching view on sequencing platforms across key companies (NGS/Lon
 
 ...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, like Germany...
 
-
+<p align="center">
+  <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="50%">
+  <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="50%">
+</p>
 
 
 
