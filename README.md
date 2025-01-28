@@ -62,7 +62,7 @@ As a simple example, we can taking an overarching view on **sequencing platforms
 
 
 ## Integration with LLM Tools
-By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content.
+By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content. This means knowing one researcher = knowing potential collaborators and competitors.
 
 ### Visualization
 Dimensionality reduction (UMAP) of a subset of scRNA-seq studies in Europe provides a visual representation of the data clustering, in this case COVID-19 and remaining studies
