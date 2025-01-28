@@ -46,7 +46,7 @@ As a simple example, we can taking an overarching view on sequencing platforms a
 ...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
 
 <details>
-  <summary><b>BasePair and WGS vs WES Analysis</b></summary>
+  <summary><b>Single-read and Paired-end/WGS vs WES</b></summary>
   <p align="center">
     <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="30%">
     <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="30%">
