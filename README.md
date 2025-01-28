@@ -32,20 +32,26 @@ As a simple example, we can taking an overarching view on sequencing platforms a
 
 ...and also look at the evolution of their platforms...
 
-<p align="center">
-  <img src="files/fig_bgi.png" alt="BGI Platform" width="20%">
-  <img src="files/fig_illumina.png" alt="Illumina Platform" width="20%">
-  <img src="files/fig_nanopore.png" alt="Nanopore Platform" width="20%">
-  <img src="files/fig_pacbio.png" alt="PacBio Platform" width="20%">
-  <img src="files/fig_thermofisher.png" alt="ThermoFisher Platform" width="20%">
-</p>
+<details>
+  <summary><b>Sequencing Platforms Overview</b></summary>
+  <p align="center">
+    <img src="files/fig_bgi.png" alt="BGI Platform" width="20%">
+    <img src="files/fig_illumina.png" alt="Illumina Platform" width="20%">
+    <img src="files/fig_nanopore.png" alt="Nanopore Platform" width="20%">
+    <img src="files/fig_pacbio.png" alt="PacBio Platform" width="20%">
+    <img src="files/fig_thermofisher.png" alt="ThermoFisher Platform" width="20%">
+  </p>
+</details>
 
 ...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
 
-<p align="center">
-  <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="30%">
-  <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="30%">
-</p>
+<details>
+  <summary><b>BasePair and WGS vs WES Analysis</b></summary>
+  <p align="center">
+    <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="30%">
+    <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="30%">
+  </p>
+</details>
 
 Single-cell and Spatial Transcriptomics:
 
