@@ -30,7 +30,7 @@ As a simple example, we can taking an overarching view on **sequencing platforms
 
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
-...and also look at the **evolution of their platforms**...
+...and also look at the evolution of their platforms...
 
 <details>
   <summary><b>Sequencing Platforms Overview</b></summary>
@@ -43,7 +43,7 @@ As a simple example, we can taking an overarching view on **sequencing platforms
   </p>
 </details>
 
-...or **single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.**
+...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
 
 <details>
   <summary><b>Single-read and Paired-end/WGS vs WES</b></summary>
@@ -53,7 +53,7 @@ As a simple example, we can taking an overarching view on **sequencing platforms
   </p>
 </details>
 
-Single-cell and Spatial Transcriptomics:
+**Single-cell and Spatial Transcriptomics:**
 
 <p align="center">
   <img src="files/scRNA_seq_plot.png" alt="Combined BasePair Analysis" width="40%">
