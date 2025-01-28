@@ -108,8 +108,6 @@ By linking this structured data and similarity analysis with large language mode
 - **Optimized Resource Allocation**  
   Equip business representatives with actionable insights, such as expenditure trends, competitor activity, and institution profiles, to prepare for client meetings. Enhance efficiency by directing resources to high-impact clients, subjects, or regions.  
 
-- **Competitor and Collaboration Analysis**  
-  Gain insights into competitors dominating specific sequencing niches and identify opportunities for collaboration with underrepresented or underserved institutions.  
 
 
 ## Future Enhancements  
