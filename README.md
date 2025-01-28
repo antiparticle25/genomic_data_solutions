@@ -21,7 +21,7 @@ Flexibility in querying detailed information about studies and researchers in th
 
 ## Trend Analysis
 This approach enables:
-- **Identification** of trends and researchers working on specific sequencing techniques.
+- **Identification** of researchers working with specific sequencing methodologies, organized by scientific subject.
 - **Pinpointing** the institutions and countries where these researchers are located.
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
