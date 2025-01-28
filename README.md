@@ -43,15 +43,15 @@ As a simple example, we can taking an overarching view on sequencing platforms a
 ...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
 
 <p align="center">
-  <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="45%">
-  <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="45%">
+  <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="30%">
+  <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="30%">
 </p>
 
 Single-cell and Spatial Transcriptomics:
 
 <p align="center">
-  <img src="files/scRNA_seq_plot.png" alt="Combined BasePair Analysis" width="45%">
-  <img src="files/spatial_transcriptomics_plot.png" alt="WGS vs WES in Germany" width="45%">
+  <img src="files/scRNA_seq_plot.png" alt="Combined BasePair Analysis" width="40%">
+  <img src="files/spatial_transcriptomics_plot.png" alt="WGS vs WES in Germany" width="40%">
 </p>
 
 
