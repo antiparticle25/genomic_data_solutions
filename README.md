@@ -30,9 +30,15 @@ Taking an overarching view on sequencing platforms across key companies (NGS/Lon
 
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
-...we can also take a deeper look at the evolution of sequencing platforms, for instance Illumina:
+...we can also take a deeper look at the evolution of their platforms...
 
-![Evolution of Illumina Sequencing Platforms](files/fig_illumina.png)
+<p align="center">
+  <img src="files/fig_bgi.png" alt="BGI Platform" width="20%">
+  <img src="files/fig_illumina.png" alt="Illumina Platform" width="20%">
+  <img src="files/fig_nanopore.png" alt="Nanopore Platform" width="20%">
+  <img src="files/fig_pacbio.png" alt="PacBio Platform" width="20%">
+  <img src="files/fig_thermofisher.png" alt="ThermoFisher Platform" width="20%">
+</p>
 
 
 ## Integration with LLM Tools
