@@ -26,11 +26,11 @@ This approach enables:
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
 
-Taking an overarching view on sequencing platforms across key companies (NGS/Long-read/Third-generation):
+As a simple example, we can taking an overarching view on sequencing platforms across key companies (NGS/Long-read/Third-generation):
 
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
-...we can also take a deeper look at the evolution of their platforms...
+...and also look at the evolution of their platforms...
 
 <p align="center">
   <img src="files/fig_bgi.png" alt="BGI Platform" width="20%">
@@ -40,14 +40,19 @@ Taking an overarching view on sequencing platforms across key companies (NGS/Lon
   <img src="files/fig_thermofisher.png" alt="ThermoFisher Platform" width="20%">
 </p>
 
-...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, like Germany...
+...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
 
 <p align="center">
   <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="45%">
   <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="45%">
 </p>
 
+Single-cell and Spatial Transcriptomics:
 
+<p align="center">
+  <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="45%">
+  <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="45%">
+</p>
 
 
 ## Integration with LLM Tools
