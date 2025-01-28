@@ -26,7 +26,7 @@ This approach enables:
 - **Finding** studies based on MeSH terms or Keywords.
 - **Analyzing** trends across different journals and subjects over time.
 
-Taking an overarching view on sequencing platforms across key companies (DNA/RNA-seq):
+Taking an overarching view on sequencing platforms across key companies (NGS/Long-read/Third-generation):
 
 ![Occurrences of Sequencing Companies](files/sequencing_companies.png)
 
