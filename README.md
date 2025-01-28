@@ -1,4 +1,4 @@
-# 📊 Development of Analytics Tools Supporting Business Development in Genomics
+# 📊 Development of Tools for Advancing Business Development in Genomics
 
 
 ## Overview
