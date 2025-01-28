@@ -40,6 +40,11 @@ Taking an overarching view on sequencing platforms across key companies (NGS/Lon
   <img src="files/fig_thermofisher.png" alt="ThermoFisher Platform" width="20%">
 </p>
 
+...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, like Germany...
+
+
+
+
 
 ## Integration with LLM Tools
 By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content.
