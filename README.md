@@ -50,8 +50,8 @@ As a simple example, we can taking an overarching view on sequencing platforms a
 Single-cell and Spatial Transcriptomics:
 
 <p align="center">
-  <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="45%">
-  <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="45%">
+  <img src="files/scRNA_seq_plot.png" alt="Combined BasePair Analysis" width="45%">
+  <img src="files/spatial_transcriptomics_plot.png" alt="WGS vs WES in Germany" width="45%">
 </p>
 
 
