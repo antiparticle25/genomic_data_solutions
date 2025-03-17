@@ -1,36 +1,48 @@
-# 📊 A Data-Driven Approach to Analyzing Genomics Research Trends
+# 📊 Market Intelligence in Genomics: Data-Driven Insights for Research & Industry  
 
+## Introduction  
+The landscape of **genomics and its applications** is immensely vast, spanning **fundamental biological research, clinical diagnostics, and pharma/biotech innovation**. As such, **keeping track of technological advancements and emerging research directions** — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.  
 
-## Overview
-The starting point of this project involves the creation of a graph database (**Neo4j**) that aggregates and organizes scientific studies focused on the most prominent sequencing techniques/methods, including **RNA-seq**, **scRNA-seq**, **Spatial Transcriptomics**, **Whole Genome (WGS)**, and **Whole Exome (WES) sequencing**, **ATAC-seq**, **ChIP-seq**, and **TCR-seq**. The structure is designed for adaptability and can easily be transferred to SQL-based relational databases.
+While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they remain inherently **static**. They provide valuable data snapshots but lack **dynamic intelligence, real-time summarization, and predictive capabilities**.  
 
+This project is an attempt to address such limitations across three core market segments:  
 
+1️⃣ **Genomics in Academia** 
 
-### Core Database Structure
-<img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/core_database.png?raw=true" width="1100" alt="Core Database Structure">
+---
 
-### Visualization of Data Query Capabilities
-Flexibility in querying detailed information about studies and researchers in the database:
+## Overview  
+The starting point of this project involves the creation of a **graph database (Neo4j)** that aggregates and organizes scientific studies focused on the most prominent sequencing techniques/methods, including **RNA-seq, scRNA-seq, Spatial Transcriptomics, Whole Genome (WGS), Whole Exome (WES) sequencing, ATAC-seq, ChIP-seq, and TCR-seq**. The structure is designed for adaptability and can be easily transferred to **SQL-based relational databases**.  
+
+### Core Database Structure  
+<img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/core_database.png?raw=true" width="1100" alt="Core Database Structure">  
+
+### Visualization of Data Query Capabilities  
+Flexibility in querying detailed information about studies and researchers in the database:  
 
 <div>
   <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/general_to_study.gif?raw=true" alt="Studies from Journals" style="width: 70%; float: left;">
   <img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/country_to_study.gif?raw=true" alt="Researchers by Location" style="width: 70%; float: right;">
-</div>
+</div>  
 
-<p style="font-size: 18px;">Check <a href="https://drive.google.com/file/d/14Qx4DzydU5uWo9ttAsMsMSX_Tsiq3b6x/view?usp=drive_link"><strong>here</strong></a> and <a href="https://drive.google.com/file/d/1OgZKWGWOV03JPGYA-DNNbyjW1ZKa6eBg/view?usp=drive_link"><strong>here</strong></a> for videos.</p>
+### 📽️ Additional Media  
+Check **[here](https://drive.google.com/file/d/14Qx4DzydU5uWo9ttAsMsMSX_Tsiq3b6x/view?usp=drive_link)** and **[here](https://drive.google.com/file/d/1OgZKWGWOV03JPGYA-DNNbyjW1ZKa6eBg/view?usp=drive_link)** for videos.  
 
-## Trend Analysis
-This approach enables:
-- **Identification** of researchers working with specific sequencing methodologies, organized by scientific subject.
-- **Pinpointing** the institutions and countries where these researchers are located.
-- **Finding** studies based on MeSH terms or Keywords.
-- **Analyzing** trends across different journals and subjects over time.
+---
 
-As a simple example, we can taking an overarching view on **sequencing platforms across key companies (NGS/Long-read/Third-generation):**
+## Trend Analysis  
+This approach enables:  
 
-![Occurrences of Sequencing Companies](files/sequencing_companies.png)
+- **Identification** of researchers working with specific sequencing methodologies, organized by scientific subject.  
+- **Pinpointing** the institutions and countries where these researchers are located.  
+- **Finding** studies based on **MeSH terms** or **Keywords**.  
+- **Analyzing** trends across different journals and subjects over time.  
 
-...and also look at the evolution of their platforms...
+For instance, we can take a broad look at **sequencing platforms across key companies (NGS/Long-read/Third-generation):**  
+
+![Occurrences of Sequencing Companies](files/sequencing_companies.png)  
+
+We can also examine the evolution of sequencing platforms:  
 
 <details>
   <summary><b>Sequencing Platforms Overview</b></summary>
@@ -41,9 +53,9 @@ As a simple example, we can taking an overarching view on **sequencing platforms
     <img src="files/fig_pacbio.png" alt="PacBio Platform" width="20%">
     <img src="files/fig_thermofisher.png" alt="ThermoFisher Platform" width="20%">
   </p>
-</details>
+</details>  
 
-...or single-read/paired-end and Whole-genome vs Whole-Exon sequencing in a particular country, such as Germany.
+Or compare **single-read vs paired-end sequencing**, and **Whole Genome vs Whole Exome sequencing** in a specific country (e.g., Germany):  
 
 <details>
   <summary><b>Single-read and Paired-end/WGS vs WES</b></summary>
@@ -51,76 +63,64 @@ As a simple example, we can taking an overarching view on **sequencing platforms
     <img src="files/combined_bp.png" alt="Combined BasePair Analysis" width="30%">
     <img src="files/wgs_vs_wes_germany.png" alt="WGS vs WES in Germany" width="30%">
   </p>
-</details>
+</details>  
 
-**Single-cell and Spatial Transcriptomics:**
+**Single-cell and Spatial Transcriptomics Analysis:**  
 
 <p align="center">
-  <img src="files/scRNA_seq_plot.png" alt="Combined BasePair Analysis" width="40%">
-  <img src="files/spatial_transcriptomics_plot.png" alt="WGS vs WES in Germany" width="40%">
-</p>
+  <img src="files/scRNA_seq_plot.png" alt="scRNA-seq Analysis" width="40%">
+  <img src="files/spatial_transcriptomics_plot.png" alt="Spatial Transcriptomics Analysis" width="40%">
+</p>  
 
+---
 
-## Integration with LLM Tools
-By utilizing an appropriate embedding model, each study can be represented in a high-dimensional space, eventually allowing for similarity assessments based on their content. This approach facilitates the identification of potential collaborators and competitors by leveraging the relationships and research focus of individual researchers.
+## Integration with LLM Tools  
+By utilizing an appropriate **embedding model**, each study can be represented in a **high-dimensional space**, allowing for **similarity assessments based on content**. This approach facilitates the identification of **potential collaborators and competitors** by leveraging the relationships and research focus of individual researchers.  
 
-### Visualization
-Dimensionality reduction (UMAP) of a subset of scRNA-seq studies in Europe provides a visual representation of the data clustering, in this case COVID-19 and remaining studies
+### Visualization  
+Dimensionality reduction (**UMAP**) of a subset of **scRNA-seq studies in Europe** provides a visual representation of data clustering, such as COVID-19-related studies vs. other research:  
 
-<img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/scRNA_covid.png?raw=true" width="600" alt="UMAP Visualization of scRNA-seq Studies">
+<img src="https://github.com/antiparticle25/genomic_data_solutions/blob/main/files/scRNA_covid.png?raw=true" width="600" alt="UMAP Visualization of scRNA-seq Studies">  
 
-### Automated Messaging
-Through prompt engineering, it is possible to generate automated messages tailored to specific research topics. Here's a **zero-shot** example using an outdated LLM:
+### Automated Messaging  
+Through **prompt engineering**, it is possible to generate automated messages tailored to specific research topics. Below is a **zero-shot** example using an outdated LLM:  
 
+> **Subject: Enhancing Your Research on Intestinal Treg Functions**  
+>  
+> Dear Dr. Researcher,  
+>  
+> I recently had the opportunity to delve into your compelling research on immune microniches shaping intestinal Treg function. Your innovative approach using in vivo live imaging alongside **photo-activation-guided single-cell RNA sequencing and spatial transcriptomics** offers a remarkable view into the interaction dynamics within the intestinal lamina propria.  
+>  
+> At Genomics, we specialize in **advanced sequencing capabilities and comprehensive bioinformatics solutions**. We would be thrilled to discuss how our services can support and expand the capabilities of your research.  
+>  
+> Best regards,  
+> **John Polymerase**  
+> *Genomics*  
 
-> **Subject: Enhancing Your Research on Intestinal Treg Functions**
->
-> Dear Dr. Researcher,
->
-> I hope this message finds you well. I recently had the opportunity to delve into your compelling research on immune microniches shaping intestinal Treg function. The insights your team provides on the cellular dynamics and spatial compartmentalization in the gut are not only fascinating but also pivotal to advancing our understanding of immune tolerance.
->
-> Your innovative approach using in vivo live imaging alongside photo-activation-guided single-cell RNA sequencing and spatial transcriptomics offers a remarkable view into the interaction dynamics within the intestinal lamina propria. I am particularly impressed by your findings on how eTreg cells stabilize within their microniche and how inflammation can disrupt this crucial balance, emphasizing the importance of spatial analysis in immunology.
->
-> At Genomics, we specialize in enhancing research such as yours through our advanced sequencing capabilities and comprehensive bioinformatics solutions. Our expertise in spatial transcriptomics aligns seamlessly with your research needs, offering you refined tools and methodologies to further explore and visualize cellular interactions in complex tissues.
->
-> We would be thrilled to discuss how our services can support and expand the capabilities of your research. Please feel free to reach out to me directly at genomics@genomics or call me at 31415926 to arrange a meeting where we can discuss this in more detail.
->
-> Best regards,
-> 
-> John Polymerase
-> 
-> Genomics
-
-
+---
 
 ## Data-Driven Insights for Research and Innovation  
-By linking structured data and similarity analysis with large language models (LLMs), the developed system enables:  
+By linking **structured data** and **similarity analysis** with **LLMs**, this system enables:  
 
-- **Expenditure Insights and Forecasting**  
-  Identify trends in research investments across fields, regions, and institutions.  
+- **Expenditure Insights and Forecasting** – Identify research investment trends across fields, regions, and institutions.  
+- **Network & Collaboration Mapping** – Analyze researcher networks and institutional partnerships to support collaboration.  
+- **Global Research & Innovation Trends** – Track emerging technologies, research priorities, and funding shifts.  
+- **Resource Optimization & Strategic Planning** – Guide decision-making in funding, infrastructure, and talent allocation.  
 
-- **Network & Collaboration Mapping**  
-  Analyze researcher networks and institutional partnerships to support collaboration.  
-
-- **Global Research & Innovation Trends**  
-  Track emerging technologies, research priorities, and funding shifts.  
-
-- **Resource Optimization & Strategic Planning**  
-  Guide decision-making in funding, infrastructure, and talent allocation.  
-
-
+---
 
 ## Future Enhancements  
 Planned upgrades include:  
 
-- **Natural Language Interface**  
-  Enable users to query the database using natural language, making data retrieval more intuitive and accessible for non-technical users.  
+- **Natural Language Interface** – Enable users to query the database using natural language, making data retrieval more intuitive.  
+- **Equipment and Reagent Cataloging** – A **fine-tuned NER model** to catalog sequencing machines and library prep kits, providing detailed insights into usage trends.  
+- **Chatbot Development** – Develop an AI chatbot capable of advising on **sequencing services** and recommending techniques tailored to research needs.  
+- **Expansion into Synthetic Biology (SynBio) and Sanger Sequencing**.  
 
-- **Equipment and Reagent Cataloging**  
-  A fine-tuned model for named entity recognition to catalog equipment and reagents (e.g., sequencing machines and library preparation kits), providing detailed insights into their usage across institutes and research subjects.  
+---
 
-- **Chatbot Development**  
-  Develop a chatbot capable of advising on sequencing services and recommending techniques tailored to specific research needs, streamlining client support and engagement.  
+## Ongoing Work  
 
-- **Expansion into Synthetic Biology (SynBio)/Sanger Sequencing**  
+2️⃣ **Sequencing in Oncology Diagnostics** – Mapping sequencing technologies in **cancer diagnostics**
 
+3️⃣ **AI Agents in Biotech/Pharma Sequencing Market Trends**
