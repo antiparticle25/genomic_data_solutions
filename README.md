@@ -31,7 +31,7 @@ Check **[here](https://drive.google.com/file/d/14Qx4DzydU5uWo9ttAsMsMSX_Tsiq3b6x
 
 ---
 
-## Trend Analysis  
+## Trend Analysis - Initial Observations
 This approach enables:  
 
 - **Identification** of researchers working with specific sequencing methodologies, organized by scientific subject.  
