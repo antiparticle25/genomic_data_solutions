@@ -10,7 +10,7 @@ While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of stru
 This project is an attempt to address such limitations across three core market segments.
 
 ---
-1️⃣ **Sequencing Trends & Expenditure in Academic Research** 
+# 1️⃣ **Sequencing Trends & Expenditure in Academic Research** 
 
 ## Overview  
 The starting point of this project involves the creation of a **graph database (Neo4j)** that aggregates and organizes scientific studies focused on the most prominent sequencing techniques/methods, including **RNA-seq, scRNA-seq, Spatial Transcriptomics, Whole Genome (WGS), Whole Exome (WES) sequencing, ATAC-seq, ChIP-seq, and TCR-seq**. The structure is designed for adaptability and can be easily transferred to **SQL-based relational databases**.  
