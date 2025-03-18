@@ -122,6 +122,6 @@ Planned upgrades include:
 
 ## Ongoing Work  
 
-2️⃣ **Sequencing in Oncology Diagnostics** – Mapping sequencing technologies in **cancer diagnostics**
+2️. **Sequencing in Oncology Diagnostics** – Mapping sequencing technologies in **cancer diagnostics**
 
-3️⃣ **AI Agents in Biotech/Pharma Sequencing Market Trends**
+3️. **AI Agents in Biotech/Pharma Sequencing Market Trends**
