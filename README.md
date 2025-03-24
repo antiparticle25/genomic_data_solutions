@@ -100,6 +100,42 @@ Each plot highlight important sequencing trends, platform expenditures, and pote
 **Top:** Yearly breakdown shows growing expenditures in sequencing, peaking in recent years. **Illumina** remains the leading platform, but the steady rise in **PacBio** and **Nanopore** indicates increasing adoption of long-read technologies.
 **Bottom:** Total estimated sequencing expenditure by instrument model, highlighting market dominance by platforms such as **Illumina NovaSeq 6000** and **MiSeq**.
 
+## **Platform Performance and Roche SBX Comparative Analysis**
+
+### Run Costs and Throughput by Platform
+
+<p align="center">
+  <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="85%">
+</p>
+
+**Insight:**  
+This plot illustrates the relationship between sequencing run costs and throughput (base count). Short-read platforms (e.g., Illumina, DNBSEQ) demonstrate strong cost-efficiency at high throughputs, whereas long-read technologies (PacBio, Nanopore) occupy different niches characterized by moderate throughput and higher cost per base.
+
+---
+
+### SBX Technology Projected Performance vs Current Platforms
+
+<p align="center">
+  <img src="files/roche.png" alt="SBX Technology Comparison" width="85%">
+</p>
+
+**Insight:**  
+Overlay of Roche’s Sequencing by Expansion (SBX) technology's projected throughput and cost efficiency. The highlighted "SBX Expected Range" illustrates SBX's potential to disrupt the market by providing sequencing throughput and cost-effectiveness potentially exceeding current market leaders.
+
+---
+
+### Time to Generate ~200 Gb: SBX vs Existing Instruments
+
+<p align="center">
+  <img src="files/time_gb.png" alt="Time Comparison for 200 Gb" width="85%">
+</p>
+
+**Insight:**  
+Direct comparison of the approximate time required by various platforms to produce 200 Gb of sequencing data. Roche SBX’s claimed performance significantly surpasses current competitors, indicating substantial advantages for applications demanding rapid turnaround and high throughput.
+
+
+
+
 
 ---
 
