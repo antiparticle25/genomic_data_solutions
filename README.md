@@ -81,7 +81,16 @@ Or compare **single-read vs paired-end sequencing**, and **Whole Genome vs Whole
 While the previously described database effectively maps researchers to institutions, fields of study, and sequencing methodologies, it does not fully capture detailed market trends. 
 To address this limitation, I have collected sequencing metadata estimated to cover approximately 95% of all sequencing runs deposited across major repositories from 2016 to 2025. Cost estimations were derived using custom formulas tailored to each sequencing platform and, where possible, adjusted to reflect sample preparation methods and inflation or price changes over the analyzed period.
 
+Each plot highlight important sequencing trends, platform expenditures, and potential areas of technological disruption, with a focus on research and industry insights:
 
+<details>
+  <summary><b>Annual Sequencing Expenditure by Platform</b></summary>
+  <p align="center">
+    <img src="files/platform_expenditure.png"
+  </p>
+</details>  
+
+Yearly breakdown shows growing expenditures in sequencing, peaking in recent years. Illumina remains the leading platform, but the steady rise in PacBio and Nanopore indicates increasing adoption of long-read technologies.
 
 
 
