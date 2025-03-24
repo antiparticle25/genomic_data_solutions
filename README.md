@@ -73,7 +73,7 @@ Or compare **single-read vs paired-end sequencing**, and **Whole Genome vs Whole
   <img src="files/spatial_transcriptomics_plot.png" alt="Spatial Transcriptomics Analysis" width="40%">
 </p>  
 
-## Repository Metadata Database
+# Repository Metadata Database
 
 **Note:**  
 **All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and may not accurately reflect actual market expenditures.**
