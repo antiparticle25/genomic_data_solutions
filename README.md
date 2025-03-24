@@ -15,8 +15,7 @@ This project is an attempt to address such limitations across three core market 
 
 ### Repository Metadata Database – Overview
 
-**Note:**  
-**All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and most likely do not accurately reflect actual market expenditures.**
+**Note: All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and most likely do not accurately reflect actual market expenditures.**
 
 
 
