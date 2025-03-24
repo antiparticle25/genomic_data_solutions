@@ -86,7 +86,7 @@ Each plot highlight important sequencing trends, platform expenditures, and pote
 ### **Annual Sequencing Expenditure and Instrument Breakdown**
 
 <p align="center">
-  <img src="files/platform_expenditure.png" alt="Annual Sequencing Expenditure by Platform" width="48%" style="display:inline-block;">
+  <img src="files/platform_expenditure.png" alt="Annual Sequencing Expenditure by Platform" width="80%" style="display:inline-block;">
   <img src="files/instrument_expenditure.png" alt="Instrument Expenditure" width="48%" style="display:inline-block;">
 </p>
 
