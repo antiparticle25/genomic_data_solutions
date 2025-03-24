@@ -46,6 +46,7 @@ For instance, we can take a broad look at **sequencing platforms across key comp
 *ThermoFisher overepresented due to an error, will eventually revisit this plot
 
 
+
 We can also examine the evolution of sequencing platforms:  
 
 <details>
