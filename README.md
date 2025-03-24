@@ -45,7 +45,7 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
 ### Run Costs and Throughput by Platform
 
 <p align="center">
-  <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="85%">
+  <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="100%">
 </p>
 
 **Insight:**  
