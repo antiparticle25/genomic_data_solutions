@@ -17,10 +17,8 @@ This project is an attempt to address such limitations across three core market 
 
 **Note: All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and most likely do not accurately reflect actual market expenditures.**    
 
-
-
-
-
+<br><br>
+<br><br>
 
 Taking advantage of public datasets, I have collected **sequencing metadata** estimated to cover approximately 95% of all runs deposited in major repositories from 2016 to 2025. This accounts for **~3 × 10¹⁴ reads**, **~30 million runs**, **~30 million experiments**.
 
