@@ -97,8 +97,8 @@ Each plot highlight important sequencing trends, platform expenditures, and pote
   <img src="files/instrument_expenditure.png" alt="Instrument Expenditure" width="48%" style="display:inline-block;">
 </p>
 
-**Left:** Yearly breakdown shows growing expenditures in sequencing, peaking in recent years. **Illumina** remains the leading platform, but the steady rise in **PacBio** and **Nanopore** indicates increasing adoption of long-read technologies.
-**Right:** Total estimated sequencing expenditure by instrument model, highlighting market dominance by platforms such as **Illumina NovaSeq 6000** and **MiSeq**.
+**Top:** Yearly breakdown shows growing expenditures in sequencing, peaking in recent years. **Illumina** remains the leading platform, but the steady rise in **PacBio** and **Nanopore** indicates increasing adoption of long-read technologies.
+**Bottom:** Total estimated sequencing expenditure by instrument model, highlighting market dominance by platforms such as **Illumina NovaSeq 6000** and **MiSeq**.
 
 
 ---
