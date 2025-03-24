@@ -73,13 +73,15 @@ Or compare **single-read vs paired-end sequencing**, and **Whole Genome vs Whole
   <img src="files/spatial_transcriptomics_plot.png" alt="Spatial Transcriptomics Analysis" width="40%">
 </p>  
 
-# Repository Metadata Database
+## Repository Metadata Database - Detailed Overview
 
 **Note:**  
 **All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and may not accurately reflect actual market expenditures.**
 
 While the previously described database effectively maps researchers to institutions, fields of study, and sequencing methodologies, it does not fully capture detailed market trends. 
 To address this limitation, I have collected sequencing metadata estimated to cover approximately 95% of all sequencing runs deposited across major repositories from 2016 to 2025. Cost estimations were derived using custom formulas tailored to each sequencing platform and, where possible, adjusted to reflect sample preparation methods and inflation or price changes over the analyzed period.
+
+
 
 
 
