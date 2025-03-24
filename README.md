@@ -122,6 +122,8 @@ Planned upgrades include:
 
 ## Ongoing Work  
 
-2️. **Sequencing in Oncology Diagnostics** – Mapping sequencing technologies in **cancer diagnostics**
+2️. **Sequencing in Oncology Diagnostics** – Mapping sequencing technologies and expenditure in oncological diagnostics
+
+- Hospitals/Clinics in Germany, Netherlands, France, Portugal, Spain 
 
 3️. **AI Agents in Biotech/Pharma Sequencing Market Trends**
