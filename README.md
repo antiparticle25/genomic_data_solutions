@@ -76,6 +76,8 @@ Or compare **single-read vs paired-end sequencing**, and **Whole Genome vs Whole
     <img src="files/scRNA_seq_plot.png" alt="scRNA-seq Analysis" width="40%">
     <img src="files/spatial_transcriptomics_plot.png" alt="Spatial Transcriptomics Analysis" width="40%">
   </p>
+</details>
+
 
 
 ## Repository Metadata Database - Detailed Overview
