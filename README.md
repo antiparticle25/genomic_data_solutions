@@ -66,12 +66,12 @@ Or compare **single-read vs paired-end sequencing**, and **Whole Genome vs Whole
   </p>
 </details>  
 
-**Single-cell and Spatial Transcriptomics Analysis:**  
-
-<p align="center">
-  <img src="files/scRNA_seq_plot.png" alt="scRNA-seq Analysis" width="40%">
-  <img src="files/spatial_transcriptomics_plot.png" alt="Spatial Transcriptomics Analysis" width="40%">
-</p>  
+<details>
+  <summary><b>Single-cell and Spatial Transcriptomics</b></summary>
+  <p align="center">
+    <img src="files/scRNA_seq_plot.png" alt="scRNA-seq Analysis" width="40%">
+    <img src="files/spatial_transcriptomics_plot.png" alt="Spatial Transcriptomics Analysis" width="40%">
+  </p>  
 
 ## Repository Metadata Database - Detailed Overview
 
