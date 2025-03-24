@@ -100,9 +100,7 @@ Yearly breakdown shows growing expenditures in sequencing, peaking in recent yea
 
 ### **Sequencing Instruments by Expenditure and Cost Distribution**
 
-**Left:** Total estimated sequencing expenditure by instrument model, highlighting market dominance by platforms such as **Illumina NovaSeq 6000** and **MiSeq**
-
-**Right:** Distribution of sequencing expenditure per experiment
+Total estimated sequencing expenditure by instrument model, highlighting market dominance by platforms such as **Illumina NovaSeq 6000** and **MiSeq**
 
 
 ---
