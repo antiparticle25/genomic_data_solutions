@@ -20,7 +20,7 @@ This project is an attempt to address such limitations across three core market 
 
 Taking advantage of public datasets, I have collected **sequencing metadata** estimated to cover approximately 95% of all runs deposited in major repositories from 2016 to 2025. 
 
-**Cost estimations** were derived using custom formulas tailored to each sequencing platform and—where possible—adjusted for sample preparation methods and inflation or price changes. This accounts for **~3 × 10¹⁴ reads**, **~30 million runs**, **30 million experiments**.
+**Cost estimations** were derived using custom formulas tailored to each sequencing platform and—where possible—adjusted for sample preparation methods and inflation or price changes. This accounts for **~3 × 10¹⁴ reads**, **~30 million runs**, **~30 million experiments**.
 
 
 Below are **key plots** highlighting important trends, expenditures, and areas of potential technological disruption:
