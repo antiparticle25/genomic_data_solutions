@@ -83,14 +83,15 @@ To address this limitation, I have collected sequencing metadata estimated to co
 
 Each plot highlight important sequencing trends, platform expenditures, and potential areas of technological disruption, with a focus on research and industry insights:
 
-<details>
-  <summary><b>Annual Sequencing Expenditure by Platform</b></summary>
-  <p align="center">
-    <img src="files/platform_expenditure.png"
-  </p>
-</details>  
+### **Annual Sequencing Expenditure by Platform**
+
+<p align="center">
+  <img src="files/platform_expenditure.png" alt="Annual Sequencing Expenditure by Platform">
+</p>
 
 Yearly breakdown shows growing expenditures in sequencing, peaking in recent years. Illumina remains the leading platform, but the steady rise in PacBio and Nanopore indicates increasing adoption of long-read technologies.
+
+
 
 
 
