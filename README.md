@@ -41,7 +41,7 @@ This approach enables:
 
 For instance, we can take a broad look at **sequencing platforms across key companies (NGS/Long-read/Third-generation):**  
 
-![Occurrences of Sequencing Companies](files/sequencing_companies.png)  
+<img src="files/sequencing_companies.png" alt="Occurrences of Sequencing Companies" width="50%">
 
 We can also examine the evolution of sequencing platforms:  
 
