@@ -42,6 +42,7 @@ This approach enables:
 For instance, we can take a broad look at **sequencing platforms across key companies (NGS/Long-read/Third-generation):**  
 
 <img src="files/sequencing_companies.png" alt="Occurrences of Sequencing Companies" width="50%">
+*ThermoFisher overepresented due to an error, will eventually revisit this plot
 
 We can also examine the evolution of sequencing platforms:  
 
