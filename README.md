@@ -16,7 +16,7 @@ This project is an attempt to address such limitations across three core market 
 ### Repository Metadata Database – Overview
 
 **Note:**  
-**All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and may not accurately reflect actual market expenditures.**
+**All sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and most likely do not accurately reflect actual market expenditures.**
 
 Taking advantage of public datasets, I have collected **sequencing metadata** estimated to cover approximately 95% of all runs deposited in major repositories from 2016 to 2025. **Cost estimations** were derived using custom formulas tailored to each sequencing platform and—where possible—adjusted for sample preparation methods and inflation or price changes. This accounts for **~3 × 10¹⁴ reads, **~30 million runs**, **30 million experiments**.
 
