@@ -38,11 +38,7 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
 
 **Bottom:** Breaks down total sequencing expenditure by instrument model, underscoring the market dominance of platforms like Illumina NovaSeq 6000 and MiSeq.
 
----
-
-## **Platform Performance and Roche SBX Comparative Analysis**
-
-### Run Costs and Throughput by Platform
+## Run Costs and Throughput by Platform
 
 <p align="center">
   <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="100%">
