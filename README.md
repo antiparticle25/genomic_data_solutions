@@ -1,4 +1,4 @@
-# Genomics Market Intelligence: Strategic Insights & Trends
+# Strategic Genomics Insights: Research, Diagnostics & Industry
 
 ## Introduction
 The landscape of genomics and its applications is immensely vast, spanning **fundamental biological research, clinical diagnostics, and pharma/biotech innovation**.
