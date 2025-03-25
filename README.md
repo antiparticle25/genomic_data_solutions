@@ -1,13 +1,15 @@
 # Genomics Market Intelligence for Research, Diagnostics & Industry
 
 ## Background
-The landscape of genomics and its applications is immensely vast, spanning **fundamental biological research, clinical diagnostics, and pharma/biotech innovation**.
+The landscape of genomics and its applications is immensely vast, spanning **basic research, clinical diagnostics, and pharma/biotech innovation**.
 
 As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
-While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they remain inherently **static**. On one hand, we often see 'reports' claiming 'x % growth' in specific techniques or market niches, but those numbers are seldom broken down and grounded in data. On the other hand, they might provide data snapshots, but lack **dynamic intelligence, real-time summarization, predictive capabilities**, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence)**, which can immensely benefit from current advanced analytical tools. If I jargonized too much, just keep in mind I am interested in three things: get high quality data, generate insights, and on top build tools that would improve the efficiency of these.
+While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they are fundamentally **static** in nature. In addition, most industry reports, despite bold predictions, often lack transparency in methodology and grounding on data.
 
-This project aims to address such limitations across three core market segments: **Academic Research**, **Cancer Diagnostics across Europe**, and **Pharma/Biotech**.
+Given the state of recent computational advancements, there are several tools that can provide a layer of **'dynamic intelligence'**, facilitating real-time database querying and summarization, automation of several processes, forecasting, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence)**
+
+This project aims to address such limitations across three core market segments - **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** - through generation of high-quality databases, actionable insights, and tools that would improve these two.  
 
 ---
 
