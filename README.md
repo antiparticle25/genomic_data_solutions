@@ -5,7 +5,7 @@ The landscape of genomics and its applications is immensely vast, spanning **fun
 
 As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
-While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they remain inherently **static**. They provide valuable data snapshots but lack **dynamic intelligence, real-time summarization, and predictive capabilities**.
+While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they remain inherently **static**. On one hand, we often see 'reports' claiming 'x% growth' in specific techniques or market niches, but those numbers are seldom broken down and grounded in data. On the other hand, they might provide data snapshots, but lack **dynamic intelligence, real-time summarization, and predictive capabilities**, which is becoming possible due to the current state of tools recently developed.
 
 This project is an attempt to address such limitations across three core market segments.
 
