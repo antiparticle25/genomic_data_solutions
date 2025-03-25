@@ -7,7 +7,7 @@ As such, keeping track of technological advancements and emerging research direc
 
 While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they remain inherently **static**. On one hand, we often see 'reports' claiming 'x % growth' in specific techniques or market niches, but those numbers are seldom broken down and grounded in data. On the other hand, they might provide data snapshots, but lack **dynamic intelligence, real-time summarization, predictive capabilities**, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence)**, which can immensely benefit from current advanced analytical tools.
 
-This project is an attempt to address such limitations across three core market segments.
+This project is an attempt to address such limitations across three core market segments: academic research, cancar diagnostics, and pharma/biotech.
 
 ---
 
