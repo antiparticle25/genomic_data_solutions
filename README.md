@@ -1,7 +1,7 @@
 # Market Intelligence in Genomics: Data-Driven Insights for Research & Industry
 
 ## Introduction
-The landscape of **genomics and its applications** is immensely vast, spanning **fundamental biological research, clinical diagnostics, and pharma/biotech innovation**.
+The landscape of genomics and its applications is immensely vast, spanning **fundamental biological research, clinical diagnostics, and pharma/biotech innovation**.
 
 As such, **keeping track of technological advancements and emerging research directions** — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
