@@ -1,4 +1,4 @@
-# Market Intelligence in Genomics: Data-Driven Insights for Research, Diagnostics & Industry
+# Market Intelligence in Genomics: Insights for Research, Diagnostics & Industry
 
 ## Introduction
 The landscape of genomics and its applications is immensely vast, spanning **fundamental biological research, clinical diagnostics, and pharma/biotech innovation**.
@@ -7,7 +7,7 @@ As such, keeping track of technological advancements and emerging research direc
 
 While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they remain inherently **static**. They provide valuable data snapshots but lack **dynamic intelligence, real-time summarization, and predictive capabilities**.
 
-This project is an attempt to address such limitations across three core market segments.
+This project is an attempt to address such limitations across three core market segments. The starting point 
 
 ---
 
