@@ -131,7 +131,7 @@ Dimensionality reduction (UMAP) on a **subset of scRNA-seq studies in Europe** r
 <img src="files/scRNA_covid.png" width="600" alt="UMAP Visualization of scRNA-seq Studies">
 
 ### Automated Messaging
-Using **prompt engineering**, we can generate automated, topic-specific messages. A **zero-shot** example:
+Using **prompt engineering**, we can generate automated, topic-specific messages. It is possible to include a substantial amount of scientific context, but here is a simpler, **zero-shot** example:
 
 > **Subject: Enhancing Your Research on Intestinal Treg Functions**  
 >  
