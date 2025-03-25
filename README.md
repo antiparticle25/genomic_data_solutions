@@ -36,7 +36,7 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
 
 **Top:** Annual growth in sequencing expenditures, peaking in recent years. Illumina remains the leading platform, but the steady rise in PacBio and Nanopore indicates increasing adoption of long-read technologies.
 
-**Bottom:** Break down of total sequencing expenditure by instrument model, underscoring the market dominance of platforms like Illumina NovaSeq 6000 and MiSeq.
+**Bottom:** Break down of total sequencing expenditure by instrument model (cummulative from 2016 until 2024), underscoring the market dominance of platforms like Illumina NovaSeq 6000 and MiSeq.
 
 ## Run Costs and Throughput by Platform
 
