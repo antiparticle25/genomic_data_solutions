@@ -44,18 +44,16 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
   <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="100%">
 </p>
 
-**Insight:**  
-This figure illustrates the relationship between **sequencing run cost** and **throughput (base count)**. Short-read platforms (e.g., Illumina, DNBSEQ) generally offer strong cost-efficiency at higher throughputs, whereas long-read technologies (PacBio, Nanopore) operate in a different niche—offering longer reads but often at higher costs per Gb.
+Relationship between **sequencing run cost** and **throughput (base count)**: short-read platforms (e.g., Illumina, DNBSEQ) generally offer strong cost-efficiency at higher throughputs, whereas long-read technologies (PacBio, Nanopore) operate in a different niche—offering longer reads but often at higher costs per Gb.
 
 ---
 
 ### SBX Technology Projected Performance vs. Current Platforms
 
 <p align="center">
-  <img src="files/roche.png" alt="SBX Technology Comparison" width="85%">
+  <img src="files/roche.png" alt="SBX Technology Comparison" width="100%">
 </p>
 
-**Insight:**  
 A hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology, showcasing its potential range for throughput and cost-efficiency. The “SBX Expected Range” highlights how it may disrupt the market by pushing throughput/cost boundaries beyond current leaders.
 
 ---
@@ -66,7 +64,6 @@ A hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology
   <img src="files/time_gb.png" alt="Time Comparison for 200 Gb" width="85%">
 </p>
 
-**Insight:**  
 Approximate time required by different platforms to produce **200 Gb** of data, with **SBX** potentially outperforming current benchmarks. This could be a game-changer for high-throughput or time-sensitive applications (e.g., clinical rapid-turnaround sequencing).
 
 ---
