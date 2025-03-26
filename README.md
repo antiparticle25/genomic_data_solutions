@@ -40,7 +40,6 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
 **Bottom:** Break down of total sequencing expenditure by instrument model (cummulative from 2016 until 2024), underscoring the market dominance of platforms like Illumina NovaSeq 6000 and MiSeq.
 
 According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4b USD**. As my numbers refer to academic research only (**est. €1.5-2b**), and believing the market to be **at least one order of magnitude larger in non-academic sequencing**, one of us (most likely me) is far off by a mile.
-
 <br><br>
 ### Run Costs and Throughput by Platform
 
