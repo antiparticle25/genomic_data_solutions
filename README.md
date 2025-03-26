@@ -64,7 +64,6 @@ A hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology
   <img src="files/time_gb.png" alt="Time Comparison for 200 Gb" width="85%">
 </p>
 
-Approximate time required by different platforms to produce **200 Gb** of data, with **SBX** potentially outperforming current benchmarks. This could be a game-changer for high-throughput or time-sensitive applications (e.g., clinical rapid-turnaround sequencing).
 
 ---
 
