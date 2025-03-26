@@ -96,7 +96,7 @@ A hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology
 
 ---
 
-### Time to Generate ~200 Gb: SBX vs Existing Instruments
+### Time to Generate ~200 Gbps: SBX vs Existing Instruments
 
 <p align="center">
   <img src="files/time_gb.png" alt="Time Comparison for 200 Gb" width="85%">
