@@ -23,7 +23,7 @@ I won't get into immense detail - for that I will eventually choose another plat
 
 Taking advantage of public datasets, I have collected **sequencing metadata** estimated to cover approximately 95% of all experiments present in major repositories from 2016 to 2025. This accounts for **~3 × 10¹⁴ reads**, **~30 million runs**, **~30 million experiments**.
 
-**Cost estimations** were derived using custom formulas tailored to each sequencing platform and, where possible, adjusted for sample preparation methods and price changes.
+**Cost estimations** were derived using custom formulas tailored to each sequencing platform and, where possible, **adjusted for sample preparation methods and price changes throughout the years**.
 
 
 Below are **key plots** highlighting important trends, expenditures, and areas of potential technological disruption:
