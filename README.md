@@ -59,7 +59,7 @@ Max Planck for - Evolutionary Anthropology, Chemical Ecology, Immunobiology and 
 What sequencing tendencies are present in each? Which platforms are they using? Which library preparation stategies are they employing?
 
 <p align="center">
-  <img src="files/institutes_read_length (2).png" alt="SBX Technology Comparison" width="100%">
+  <img src="files/institutes_read_length (2).png" alt="SBX Technology Comparison" width="70%">
 </p>
 
 ### SBX Technology Projected Performance vs. Current Platforms
