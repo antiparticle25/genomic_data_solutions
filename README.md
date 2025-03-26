@@ -35,11 +35,12 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
   <img src="files/instrument_expenditure.png" alt="Instrument Expenditure" width="48%" style="display:inline-block;">
 </p>
 
-According to a report by DeciBio, the total NGS market is valued (2024) at 6.4b USD. As my numbers only refer to academic research (est. €1.5-2b), and believing the market to be at least one order of magnitude larger in non-academic sequencing, one of us (most likely me) is far off by a mile.
-
 **Top:** Annual growth in sequencing expenditures, peaking in recent years. Illumina remains the leading platform, but the steady rise in PacBio and Nanopore indicates increasing adoption of long-read technologies.
 
 **Bottom:** Break down of total sequencing expenditure by instrument model (cummulative from 2016 until 2024), underscoring the market dominance of platforms like Illumina NovaSeq 6000 and MiSeq.
+
+According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4b USD**. As my numbers refer to academic research only (**est. €1.5-2b**), and believing the market to be **at least one order of magnitude larger in non-academic sequencing**, one of us (most likely me) is far off by a mile.
+
 
 ## Run Costs and Throughput by Platform
 
