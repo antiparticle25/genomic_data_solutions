@@ -49,7 +49,7 @@ According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4
 </p>
 
 Relationship between **sequencing run cost** and **throughput (base count)**: short-read platforms (e.g., Illumina, DNBSEQ) generally offer strong cost-efficiency at higher throughputs, whereas long-read technologies (PacBio, Nanopore) operate in a different niche—offering longer reads but often at higher costs per Gbps.
-
+<br>
 ### At the Institutional Level
 
 All the previous plots provide a top-down view, but we can then start making more directed questions at the institutional level. Take the example of the Max Planck Society, composed of 84 institutes, of which some were found in my database.
