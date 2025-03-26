@@ -42,7 +42,7 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
 According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4b USD**. As my numbers refer to academic research only (**est. €1.5-2b**), and believing the market to be **at least one order of magnitude larger in non-academic sequencing**, one of us (most likely me) is far off by a mile.
 
 
-## Run Costs and Throughput by Platform
+### Run Costs and Throughput by Platform
 
 <p align="center">
   <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="100%">
@@ -50,7 +50,7 @@ According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4
 
 Relationship between **sequencing run cost** and **throughput (base count)**: short-read platforms (e.g., Illumina, DNBSEQ) generally offer strong cost-efficiency at higher throughputs, whereas long-read technologies (PacBio, Nanopore) operate in a different niche—offering longer reads but often at higher costs per Gbps.
 
-## At the Institutional Level
+### At the Institutional Level
 
 All the previous plots provide a top-down view, but we can then start making more directed questions at the institutional level. Take the example of the Max Planck Society, composed of 84 institutes, of which some were found in my database.
 
