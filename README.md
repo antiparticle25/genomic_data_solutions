@@ -52,9 +52,34 @@ Relationship between **sequencing run cost** and **throughput (base count)**: sh
 
 ## At the Institutional Level
 
-All the previous plots provide a top-down view, but we can then start making more directed questions at the institutional level. Take the example of the Max Planck Society, composed of 84 institutes, of which the following were found in my database: 
+All the previous plots provide a top-down view, but we can then start making more directed questions at the institutional level. Take the example of the Max Planck Society, composed of 84 institutes, of which some were found in my database.
 
-Max Planck for - Evolutionary Anthropology, Chemical Ecology, Immunobiology and Epigenetics, Plant Breeding Research, Marine Microbiology, Evolutionary Biology, Molecular Genetics, Biology Tuebingen, Biology of Ageing, Biogeochemistry, Ornithology, Molecular Biomedicine, Biophysical Chemistry, Unit for the Science of Pathogens, Terrestrial Microbiology, Chemistry, Heart and Lung Research, Science of Human History, Infection Biology, Molecular Plant Physiology, Molecular Cell Biology and Genetics.
+<details>
+  <summary>You can find the list here.</summary>
+
+  - Max Planck Institute for Evolutionary Anthropology  
+  - Max Planck Institute for Chemical Ecology  
+  - Max Planck Institute of Immunobiology and Epigenetics  
+  - Max Planck Institute for Plant Breeding Research  
+  - Max Planck Institute for Marine Microbiology  
+  - Max Planck Institute for Evolutionary Biology  
+  - Max Planck Institute for Molecular Genetics  
+  - Max Planck Institute for Biology Tuebingen  
+  - Max Planck Institute for Biology of Ageing  
+  - Max Planck Institute for Biogeochemistry  
+  - Max Planck Institute for Ornithology  
+  - Max Planck Institute for Molecular Biomedicine  
+  - Max Planck Institute for Biophysical Chemistry  
+  - Max Planck Unit for the Science of Pathogens  
+  - Max Planck Institute for Terrestrial Microbiology  
+  - Max Planck Institute for Chemistry  
+  - Max Planck Institute for Heart and Lung Research  
+  - Max Planck Institute for the Science of Human History  
+  - Max Planck Institute for Infection Biology  
+  - Max Planck Institute of Molecular Plant Physiology  
+  - Max Planck Institute of Molecular Cell Biology and Genetics  
+
+</details>
 
 What sequencing tendencies are present in each? Which platforms are they using? Which library preparation stategies are they employing?
 
