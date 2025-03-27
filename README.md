@@ -129,6 +129,7 @@ To explore where SBX may position itself relative to current sequencing platform
 </p>
 
 Hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology, showcasing its potential range for throughput and cost-efficiency.
+At 200 Gbp/hour and an estimated cost of €400–€1200 per run, it is possible to observe that very few sequencing runs fall in this thoughput-cost region.
 
 ---
 
