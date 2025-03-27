@@ -84,7 +84,7 @@ All the previous plots provide top-down perspectives, but we can then start maki
 
 </details>
 
-What sequencing tendencies are present in each? Which platforms are they using? Which library preparation stategies are they employing?
+What sequencing tendencies are present in each? Which platforms are they using? Which library preparation stategies are they employing? Given the fields of study in each, I would expect to see some differences.
 
 <p align="center">
   <img src="files/institutes_read_length (2).png" alt="SBX Technology Comparison" width="70%">
