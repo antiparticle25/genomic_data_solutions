@@ -122,6 +122,8 @@ Different sequencing platforms compared in terms of total output and read charac
 
 To explore where SBX may position itself relative to current sequencing platforms, I generated a set of exploratory plots based on Roche's publicly stated performance claims:
 
+<br><br>
+
 ### SBX Technology Projected Performance vs. Current Platforms
 
 <p align="center">
