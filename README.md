@@ -143,9 +143,9 @@ At 200 Gbp/hour and an estimated cost of €400–€1200 per run, it is possibl
 
 ---
 
-## Graph Database (Neo4j)
+## Mapping Researchers, Methodologies, Institutes in Graph Database (Neo4j)
 
-The initial phase of this project also includes a **graph database** that aggregates and organizes scientific studies focusing on prominent sequencing techniques (e.g., **RNA-seq, scRNA-seq, WGS, WES, ATAC-seq**). This flexible design can be transferred to **SQL-like** framework.
+I have also developed a **graph database** that aggregates and organizes scientific studies focusing on prominent sequencing techniques (e.g., **RNA-seq, scRNA-seq, WGS, WES, ATAC-seq**). This flexible design can be transferred to **SQL-like** framework.
 
 ### Core Database Structure
 <img src="files/core_database.png" width="1100" alt="Core Database Structure">
