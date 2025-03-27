@@ -84,7 +84,7 @@ All the previous plots provide top-down perspectives, but we can then start maki
 
 </details>
 
-What sequencing tendencies are present in each? Which platforms are they using? Which library preparation stategies are they employing? Given the fields of study in each, I would expect to see some differences.
+What sequencing patterns can be observed across institutes? Which platforms are they predominantly using, and what library preparation strategies are being employed? Given the distinct research focuses of each institute, some differences in these choices are to be expected.
 
 <p align="center">
   <img src="files/institutes_read_length (2).png" alt="Institutes Read Length" width="70%">
