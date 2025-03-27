@@ -120,13 +120,15 @@ Different sequencing platforms compared in terms of total output and read charac
 
 **Roche** has recently launched a new sequencing platform with the potential not only to position itself as a competitior in the genomics space, but to define a new category on its own. It is a nanopore-based method that leverages a novel sequencing chemistry (Xpandomer-based SBX) and a **high-throughput CMOS sensor module, **enabling single-molecule electrical detection with short-read-like accuracy**.
 
+To explore where SBX may position itself relative to current sequencing platforms, I generated a set of exploratory plots based on Roche's publicly stated performance claims:
+
 ### SBX Technology Projected Performance vs. Current Platforms
 
 <p align="center">
   <img src="files/roche.png" alt="SBX Technology Comparison" width="100%">
 </p>
 
-A hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology, showcasing its potential range for throughput and cost-efficiency. The “SBX Expected Range” highlights how it may disrupt the market by pushing throughput/cost boundaries beyond current leaders.
+Hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology, showcasing its potential range for throughput and cost-efficiency.
 
 ---
 
