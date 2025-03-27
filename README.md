@@ -116,7 +116,7 @@ Different sequencing platforms compared in terms of total output and read charac
 
 ---
 
-## Roche Sequencing-by-Extension (SBX) Technology
+## Roche Sequencing by Extension (SBX) Technology
 
 Roche has recently launched a new sequencing platform with the potential not only to position itself as a competitior in the genomics space, but to define a new category on its own. It is nanopore-based that leverages a novel sequencing chemistry (Xpandomer-based SBX) and a high-throughput CMOS sensor module, enabling single-molecule electrical detection with short-read-like accuracy.
 
