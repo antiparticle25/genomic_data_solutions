@@ -49,7 +49,7 @@ According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4
 </p>
 
 <p align="center">
-  <img src="files/cost_average_read_length.png" alt="Cost vs Average Read Length" width="100%">
+  <img src="files/cost_average_read_length.png" alt="Cost vs Average Read Length" width="70%">
 </p>
 
 Relationship between **sequencing run cost** and **throughput (base count)**: short-read platforms (e.g., Illumina, DNBSEQ) generally offer strong cost-efficiency at higher throughputs, whereas long-read technologies (PacBio, Nanopore) operate in a different niche—offering longer reads but often at higher costs per Gbps. I will improve these images in order to better convey such points.
