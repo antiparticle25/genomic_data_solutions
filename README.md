@@ -90,7 +90,7 @@ What sequencing tendencies are present in each? Which platforms are they using? 
   <img src="files/institutes_read_length (2).png" alt="Institutes Read Length" width="70%">
 </p>
 
-Different sequencing platforms compared in terms of total output and read characteristics. On the x-axis is the average read length, while the y-axis represents the total number of bases sequenced. Each bubble corresponds to a platform-institute combination, with its size indicating the number of experiments conducted. A few institutes, among these **MPI Tübingen**, clearly dominate both in terms of data volume and experiment count.
+Different sequencing platforms compared in terms of total output and read characteristics. Each bubble corresponds to a platform-institute combination, with its size indicating the number of experiments conducted. A few institutes, among these **MPI Tübingen**, clearly dominate both in terms of data volume and experiment count.
 
 
 <details>
