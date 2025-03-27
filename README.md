@@ -51,10 +51,10 @@ Relationship between **sequencing run cost** and **throughput (base count)**: sh
 <br><br>
 ### At the Institutional Level - Max Planck Society as an Example
 
-All the previous plots provide a top-down view, but we can then start making more directed questions at the institutional level. Take the example of the Max Planck Society, composed of 84 institutes, of which some were found in my database.
+All the previous plots provide top-down perspectives, but we can then start making more directed questions, for instance at the institute level. Take the example of the Max Planck Society, composed of 84 institutes, of which some are present in my database:
 
 <details>
-  <summary>You can find the list here.</summary>
+  <summary>List of Max Planck Institutes</summary>
 
   - Max Planck Institute for Evolutionary Anthropology  
   - Max Planck Institute for Chemical Ecology  
