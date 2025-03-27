@@ -45,7 +45,6 @@ According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4
 
 <p align="center">
   <img src="files/platform_costpergb.png" alt="Platform Cost per Gb" width="100%">
-  <img src="files/platform_throughput.png" alt="Platform Throughput" width="100%">
 </p>
 
 <p align="center">
