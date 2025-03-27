@@ -87,8 +87,30 @@ All the previous plots provide top-down perspectives, but we can then start maki
 What sequencing tendencies are present in each? Which platforms are they using? Which library preparation stategies are they employing? Given the fields of study in each, I would expect to see some differences.
 
 <p align="center">
-  <img src="files/institutes_read_length (2).png" alt="SBX Technology Comparison" width="70%">
+  <img src="files/institutes_read_length (2).png" alt="Institutes Read Length" width="70%">
 </p>
+
+<details>
+  <summary><b>Library Strategies</b></summary>
+  <p align="center">
+    <img src="files/sunburst_institutes_strategies.png" alt="Library Strategies" width="70%">
+  </p>
+</details>
+
+<details>
+  <summary><b>Platform Usage per Institute</b></summary>
+  <p align="center">
+    <img src="files/sunburst_institutes_platforms.png" alt="Platform Usage per Institute" width="70%">
+  </p>
+</details>
+
+<details>
+  <summary><b>Main Institutes per Platform</b></summary>
+  <p align="center">
+    <img src="files/sunburst_platforms_institutes.png" alt="Main Institutes per Platform" width="70%">
+  </p>
+</details>
+
 
 ### SBX Technology Projected Performance vs. Current Platforms
 
