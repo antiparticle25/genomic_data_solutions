@@ -113,7 +113,8 @@ Different sequencing platforms compared in terms of total output and read charac
     <img src="files/sunburst_platforms_institutes.png" alt="Main Institutes per Platform" width="70%">
   </p>
 </details>
-
+<br><br>
+---
 
 ### SBX Technology Projected Performance vs. Current Platforms
 
