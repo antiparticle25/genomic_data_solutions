@@ -17,7 +17,7 @@ I won't get into immense detail - for that I will eventually choose another plat
 ### Repository Metadata Database – Overview
 
 **Note:** 
-**all sequencing expenditure and cost-related figures presented here are estimations intended solely for comparison purposes and most likely do not accurately reflect actual market expenditures.**    
+**all sequencing expenditure and cost-related figures presented here are based on gross assumptions, and most likely do not accurately reflect actual market expenditures. More important than absolute numbers, emphasis should be put on understanding trends and rates of change.**
 
 <br><br>
 
