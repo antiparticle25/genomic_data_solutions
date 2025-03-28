@@ -42,9 +42,10 @@ Below are **key plots** highlighting important trends, expenditures, and areas o
 <details>
 <summary><strong>2023–2024 % expenditure changes per platform and model</strong></summary>
 
-![2023–2024 % expenditure changes](instruments_percentage_year.png)
+![2023–2024 % expenditure changes per platform and model](files/instruments_percentage_year.png)
 
 </details>
+
 
 According to a report by DeciBio, the **total NGS market is valued (2024) at 6.4b USD**. As my numbers refer to academic research only (**est. €1.5-2b**), and believing the non-academic market to be **at least one order of magnitude larger in non-academic sequencing**, it could very well be that I am overestimating the real market value. I will look for other reports in other to benchmark my numbers, feel free to send any you find meaningful.
 <br><br>
