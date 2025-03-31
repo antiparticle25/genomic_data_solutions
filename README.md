@@ -147,6 +147,21 @@ At 200 Gbp/hour and an estimated cost of €400–€1200 per run, it is possibl
   <img src="files/time_gb.png" alt="Time Comparison for 200 Gbp" width="85%">
 </p>
 
+### Roche SBX Revenue Scenarios by Market Share and Reagent Overhead
+
+I have also looked at potential revenue that Roche could generate from its SBX platform considering if it captures between 5% and 25% of the 2024 sequencing market currently served by major competitors. Each subplot represents a competing platform class:
+
+- **Illumina NovaSeq (6000, X, X Plus)**
+- **BGI/MGI (BGISEQ, DNBSEQ, MGISEQ)**
+- **PacBio (RS, Sequel, Revio)**
+- **Oxford Nanopore (MinION, GridION, PromethION)**
+
+Three assumptions are considered:
+- **Base (20%)**: Roche charges ~20% more for specialized SBX reagents (Xpandomers might be costly)
+- **No Overhead (0%)**: Roche matches current reagent pricing  
+- **High Overhead (35%)**: Roche prices SBX reagents at 35% above baseline
+
+![Roche SBX Revenue Potential](files/comparison_roche_platforms.png)
 
 ---
 
