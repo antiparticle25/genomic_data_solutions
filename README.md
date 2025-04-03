@@ -13,7 +13,6 @@ I won't get into immense detail - for that I will eventually choose another plat
 
 ## Table of Contents
 
-- [Background](#background)
 - [1️. Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
   - [Repository Metadata Database – Overview](#repository-metadata-database--overview)
   - [Annual Sequencing Expenditure and Instrument Breakdown](#annual-sequencing-expenditure-and-instrument-breakdown)
