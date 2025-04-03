@@ -10,14 +10,6 @@ Given the state of recent computational advancements, there are several tools th
 This project aims to address such limitations across three core market segments - **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** - through generation of high-quality databases, actionable insights, and tools that would improve these two.
 I won't get into immense detail - for that I will eventually choose another platform to do so, but would be happy to discuss the rationale and some of the ideas.
 
-
-## Table of Contents
-
-- [1️. Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
-- [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
-- [Mapping Researchers, Methods, Institutes (Graph DB)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
-
-
 ---
 
 ## 1️. **Sequencing Trends & Expenditure in Academic Research** 
