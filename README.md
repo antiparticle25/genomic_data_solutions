@@ -14,21 +14,9 @@ I won't get into immense detail - for that I will eventually choose another plat
 ## Table of Contents
 
 - [1️. Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
-  - [Repository Metadata Database – Overview](#repository-metadata-database--overview)
-  - [Annual Sequencing Expenditure and Instrument Breakdown](#annual-sequencing-expenditure-and-instrument-breakdown)
-  - [Run Costs and Throughput by Platform](#run-costs-and-throughput-by-platform)
-  - [At the Institutional Level - Max Planck Society](#at-the-institutional-level---max-planck-society-as-an-example)
 - [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
-  - [SBX Projected Performance vs Existing Platforms](#sbx-technology-projected-performance-vs-current-platforms)
-  - [Time to Generate 200 Gbps](#time-to-generate-200-gbps-sbx-vs-existing-instruments)
-  - [Revenue Scenarios by Market Share](#roche-sbx-revenue-scenarios-by-market-share-and-reagent-overhead)
 - [Mapping Researchers, Methods, Institutes (Graph DB)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
-  - [Database Structure](#core-database-structure)
-  - [Query Examples](#visualization-of-data-query-capabilities)
-  - [Graph-Based Observations](#graph-database--further-observations)
-- [Integration with LLM Tools](#integration-with-llm-tools)
-  - [Study Similarity Mapping](#visualization)
-  - [Automated Messaging](#automated-messaging)
+
 
 ---
 
