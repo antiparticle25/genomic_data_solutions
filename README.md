@@ -163,6 +163,14 @@ Three assumptions are considered:
 
 ![Roche SBX Revenue Potential](files/comparison_roche_platforms.png)
 
+<details>
+  <summary><strong>Roche SBX Revenue Scenarios Summary</strong></summary>
+
+  <p align="center">
+    <img src="files/table_roche_revenue.png" alt="Roche Revenue Table" width="80%">
+  </p>
+</details>
+
 ---
 
 ## Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)
