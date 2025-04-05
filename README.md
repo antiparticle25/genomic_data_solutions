@@ -180,8 +180,8 @@ I have also explored the expenditure of sequencing in oncology throughout Europe
 Importantly, cancer is on the rise worldwide, with the number of new cases expected to nearly double by 2050 compared to 2025 ([WHO International Agency for Research on Cancer](https://www.iarc.who.int/)).
 <br><br>
 <p align="center">
-  <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="90%"/>
-  <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="90%"/>
+  <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="100%"/>
+  <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="100%"/>
 </p>
 
 In particular, within Europe ([OECD EU Cancer Profiles Synthesis Report 2025](https://www.oecd.org/en/publications/eu-country-cancer-profiles-synthesis-report-2025_20ef03e1-en.html)):
