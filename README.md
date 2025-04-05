@@ -178,8 +178,8 @@ Three assumptions are considered:
 I have also explored the expenditure of sequencing in oncology throughout Europe. While sequencing itself might not be a determining factor for diagnosing cancer, it plays a key role in deciding therapy and treatments. Importantly, cancer is on the rise worldwide, with the number of new cases expected to nearly double by 2050 compared to 2025:
 
 <p align="center">
-  <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="70%"/>
-  <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="70%"/>
+  <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="90%"/>
+  <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="90%"/>
 </p>
 
 In particular, within Europe:
