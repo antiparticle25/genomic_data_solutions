@@ -175,10 +175,14 @@ Three assumptions are considered:
 
 ## Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe
 
-I have also explored the expenditure of sequencing in oncology throughout Europe. While sequencing itself might not be a determining factor for diagnosing cancer, it plays a key role in deciding therapy and treatments. 
+Cancer incidence is rising globally, with the number of new cases projected to nearly double by 2050 compared to 2025 ([WHO International Agency for Research on Cancer](https://www.iarc.who.int/)). In this context, I have explored the financial landscape of genomic sequencing in oncology, with a particular emphasis on Europe. 
 
-Importantly, cancer is on the rise worldwide, with the number of new cases expected to nearly double by 2050 compared to 2025 ([WHO International Agency for Research on Cancer](https://www.iarc.who.int/)).
+While sequencing may not always be pivotal for initial diagnosis, it plays a critical role in guiding therapeutic decision-making and treatment stratification. 
+
+I have a strong personal interest in colorectal and lung cancer subtypes, due to their incidence on the maternal side of my family, which [originates from Goa](https://en.wikipedia.org/wiki/Portuguese_India).
+
 <br><br>
+
 <p align="center">
   <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="100%"/>
   <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="100%"/>
