@@ -175,26 +175,29 @@ Three assumptions are considered:
 
 ## Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe
 
-I have also explored the expenditure of sequencing in oncology throughout Europe. While sequencing itself might not be a determining factor for diagnosing cancer, it plays a key role in deciding therapy and treatments. Importantly, cancer is on the rise worldwide, with the number of new cases expected to nearly double by 2050 compared to 2025:
+I have also explored the expenditure of sequencing in oncology throughout Europe. While sequencing itself might not be a determining factor for diagnosing cancer, it plays a key role in deciding therapy and treatments. 
+
+Importantly, cancer is on the rise worldwide, with the number of new cases expected to nearly double by 2050 compared to 2025 ([WHO International Agency for Research on Cancer](https://www.iarc.who.int/)).
 <br><br>
 <p align="center">
   <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="90%"/>
   <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="90%"/>
 </p>
 
-In particular, within Europe:
+In particular, within Europe ([OECD EU Cancer Profiles Synthesis Report 2025](https://www.oecd.org/en/publications/eu-country-cancer-profiles-synthesis-report-2025_20ef03e1-en.html)):
 
 - Every minute, five people in the EU are diagnosed with cancer.
 - A total of 2,742,447 new cancer cases were expected in the EU in 2022.
 - Every minute, cancer kills more than two people in the EU.
 - In 2021, 1.15 million people died from cancer in EU countries—making it the second-leading cause of death after cardiovascular disease.
 
-My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study. For this, I have gathered cancer incidence data from 2020, covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
-To get a sense of where these cases are most likely diagnosed or treated, I compiled a list of hospitals in each region. Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
+My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study. For this, For this, I have gathered [cancer incidence data from 2020](https://www.dkr.de/), covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
+To get a sense of where these cases are most likely diagnosed or treated, I [compiled a list of hospitals in each region](https://www.german-hospital-directory.com). Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW).
+Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
 
 ![Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW](files/samplecities_hospitals.png)
 
-It is noticeable that in Berlin—which is a city-state, urban, and densely populated, the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions contain many different prominent cities.
+It is noticeable that in Berlin, which is a city-state, urban and densely populated, the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions contain many spread out prominent cities.
 
 <details>
   <summary>Full distribution of hospital data across all of Germany’s federal states</summary>
