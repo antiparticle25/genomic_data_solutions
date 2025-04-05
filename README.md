@@ -188,12 +188,19 @@ While sequencing may not always be pivotal for initial diagnosis, it plays a cri
 
 <br><br>
 
+In order to have a **high-level and initial estimation of genomic sequencing expenditure**, based on current (2022) and future (2050) cancer incidence, I have decided to explore a very basic scenario. Europe and North America are aggregated here as regions where **some adoption of sequencing is already underway**.
+
+This approach assumes one sample per case, and explores a range of **uptake levels**, defined here as the proportion of newly diagnosed cancer cases that would undergo genomic sequencing. Different cost scenarios are tested, ranging from €200 to €1000 per sample. The analysis reflects the use of **targeted panel sequencing**, which is currently the most common approach in oncology for identifying actionable mutations.
+
+![Projected sequencing costs heatmap](files/europa_america_oncology_initial.png)
+
+<br><br>
+
 In particular, within the European Union ([OECD EU Cancer Profiles Synthesis Report 2025](https://www.oecd.org/en/publications/eu-country-cancer-profiles-synthesis-report-2025_20ef03e1-en.html)), cancer continues to pose a significant public health burden: every minute, approximately five people are diagnosed with the disease, while more than two lose their lives to it. In 2022, over 2.7 million new cancer cases were estimated across member countries; by 2021, it had become the second leading cause of death after cardiovascular disease with 1.15 million deaths recorded that year.
 
 
-My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study.
+My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study. For this, I have gathered [cancer incidence data from 2020](https://www.dkr.de/), covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
 
-For this, I have gathered [cancer incidence data from 2020](https://www.dkr.de/), covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
 To get a sense of where these cases are most likely diagnosed or treated, I [compiled a list of hospitals in each region](https://www.german-hospital-directory.com).
 
 Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
