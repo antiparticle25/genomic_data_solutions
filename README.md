@@ -191,7 +191,8 @@ In particular, within Europe ([OECD EU Cancer Profiles Synthesis Report 2025](ht
 - Every minute, cancer kills more than two people in the EU.
 - In 2021, 1.15 million people died from cancer in EU countries—making it the second-leading cause of death after cardiovascular disease.
 
-My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study. For this, For this, I have gathered [cancer incidence data from 2020](https://www.dkr.de/), covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
+My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study. 
+For this, I have gathered [cancer incidence data from 2020](https://www.dkr.de/), covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
 To get a sense of where these cases are most likely diagnosed or treated, I [compiled a list of hospitals in each region](https://www.german-hospital-directory.com). Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW).
 Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
 
