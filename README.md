@@ -192,6 +192,8 @@ In order to have a **high-level and initial estimation of genomic sequencing exp
 
 This approach assumes one sample per case, and explores a range of **uptake levels**, defined here as the proportion of newly diagnosed cancer cases that would undergo genomic sequencing. Different cost scenarios are tested, ranging from €200 to €1000 per sample. The analysis reflects the use of **targeted panel sequencing**, which is currently the most common approach in oncology for identifying actionable mutations.
 
+<br><br>
+
 ![Projected sequencing costs heatmap](files/europa_america_oncology_initial.png)
 
 <br><br>
