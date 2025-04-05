@@ -186,7 +186,7 @@ Importantly, cancer is on the rise worldwide, with the number of new cases expec
 
 <br><br>
 
-In particular, within the European Union ([OECD EU Cancer Profiles Synthesis Report 2025](https://www.oecd.org/en/publications/eu-country-cancer-profiles-synthesis-report-2025_20ef03e1-en.html)), cancer continues to pose a significant public health burden. Every minute, approximately five people are diagnosed with the disease, while more than two lose their lives to it. In 2022, over 2.7 million new cancer cases were estimated across member countries; by 2021, it had become the second leading cause of death after cardiovascular disease with 1.15 million deaths recorded that year.
+In particular, within the European Union ([OECD EU Cancer Profiles Synthesis Report 2025](https://www.oecd.org/en/publications/eu-country-cancer-profiles-synthesis-report-2025_20ef03e1-en.html)), cancer continues to pose a significant public health burden: every minute, approximately five people are diagnosed with the disease, while more than two lose their lives to it. In 2022, over 2.7 million new cancer cases were estimated across member countries; by 2021, it had become the second leading cause of death after cardiovascular disease with 1.15 million deaths recorded that year.
 
 
 My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study.
@@ -199,6 +199,8 @@ Below is a snapshot showing the top five hospitals by number of cancer-related c
 <p align="center">
   <img src="files/samplecities_hospitals.png" alt="Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW" width="100%">
 </p>
+
+<br><br>
 
 It is noticeable that in Berlin, which is a city-state, urban and densely populated, the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions contain many spread out prominent cities.
 
