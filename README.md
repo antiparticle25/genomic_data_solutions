@@ -184,6 +184,8 @@ Importantly, cancer is on the rise worldwide, with the number of new cases expec
   <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="100%"/>
 </p>
 
+<br><br>
+
 In particular, within the European Union ([OECD EU Cancer Profiles Synthesis Report 2025](https://www.oecd.org/en/publications/eu-country-cancer-profiles-synthesis-report-2025_20ef03e1-en.html)), cancer continues to pose a significant public health burden. Every minute, approximately five people are diagnosed with the disease, while more than two lose their lives to it. In 2022, over 2.7 million new cancer cases were estimated across member countries; by 2021, it had become the second leading cause of death after cardiovascular disease with 1.15 million deaths recorded that year.
 
 
