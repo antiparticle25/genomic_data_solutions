@@ -195,7 +195,9 @@ My aim is to better understand how much is being spent on genomic sequencing at 
 To get a sense of where these cases are most likely diagnosed or treated, I [compiled a list of hospitals in each region](https://www.german-hospital-directory.com). Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW).
 Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
 
-![Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW](files/samplecities_hospitals.png)
+<p align="center">
+  <img src="files/samplecities_hospitals.png" alt="Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW" width="100%">
+</p>
 
 It is noticeable that in Berlin, which is a city-state, urban and densely populated, the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions contain many spread out prominent cities.
 
