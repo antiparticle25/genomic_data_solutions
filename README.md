@@ -173,6 +173,41 @@ Three assumptions are considered:
 
 ---
 
+## Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe
+*(Germany, the Netherlands, France, Portugal, Spain, ...)*
+
+I have also explored the expenditure of sequencing in oncology throughout Europe. While sequencing itself might not be a determining factor for diagnosing cancer, it plays a key role in deciding therapy and treatments. Importantly, cancer is on the rise worldwide, with the number of new cases expected to nearly double by 2050 compared to 2025:
+
+<p align="center">
+  <img src="files/cancer_new_cases.png" alt="Projected Global Cancer Cases" width="45%"/>
+  <img src="files/heatmap_common_world.png" alt="Cancer Subtype Distribution" width="45%"/>
+</p>
+
+In particular, within Europe:
+
+- Every minute, five people in the EU are diagnosed with cancer.
+- A total of 2,742,447 new cancer cases were expected in the EU in 2022.
+- Every minute, cancer kills more than two people in the EU.
+- In 2021, 1.15 million people died from cancer in EU countries—making it the second-leading cause of death after cardiovascular disease.
+
+My goal is to understand how much is spent on sequencing at both country and regional levels within each country, using Germany as an initial example.
+
+I have obtained cancer data (2020) covering different types of cancer: lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterus, and non-Hodgkin lymphoma.  
+
+To have an idea where these cases most likely have been diagnosed, I compiled a list of hospitals across each region. Below are the top five hospitals by absolute number of cancer cases (diagnoses and/or treatment) in three federal regions of Germany—Berlin, Bavaria, and North Rhine-Westphalia (NRW).
+
+![Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW](files/samplecities_hospitals.png)
+
+It is noticeable that in Berlin—which is a city-state, very urban, and densely populated—the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions comprise many different cities.
+
+<details>
+  <summary>Full distribution of hospital data across all of Germany’s federal states</summary>
+  <br>
+  <img src="files/states_hospitals_percentage.png" alt="Full State Hospital Distribution">
+</details>
+
+---
+
 ## Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)
 
 I have also developed a **graph database** that aggregates and organizes scientific studies focusing on prominent sequencing techniques (e.g., **RNA-seq, scRNA-seq, WGS, WES, ATAC-seq**). This flexible design can be transferred to **SQL-like** framework.
@@ -272,7 +307,6 @@ By linking **structured data** and **similarity analysis** with **LLMs**, this s
 ---
 
 ## Ongoing Work
-2. **Sequencing in Oncology Diagnostics** – Mapping technologies and expenditures in oncological diagnostics across hospitals/clinics in Germany, Netherlands, France, Portugal, Spain.
 
 3. **AI Agents in Biotech/Pharma Sequencing Market Trends**
 
