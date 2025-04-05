@@ -177,9 +177,7 @@ Three assumptions are considered:
 
 Cancer incidence is rising globally, with the number of new cases projected to nearly double by 2050 compared to 2025 ([WHO International Agency for Research on Cancer](https://www.iarc.who.int/)). In this context, I have explored the financial landscape of genomic sequencing in oncology, with a particular emphasis on Europe. 
 
-While sequencing may not always be pivotal for initial diagnosis, it plays a critical role in guiding therapeutic decision-making and treatment stratification. 
-
-I have a strong personal interest in colorectal and lung cancer subtypes, due to their incidence on the maternal side of my family, which [originates from Goa](https://en.wikipedia.org/wiki/Portuguese_India).
+While sequencing may not always be pivotal for initial diagnosis, it plays a critical role in guiding therapeutic decision-making and treatment stratification. I have a strong personal interest in colorectal and lung cancer subtypes, due to their incidence on the maternal side of my family, which [originates from Goa](https://en.wikipedia.org/wiki/Portuguese_India).
 
 <br><br>
 
