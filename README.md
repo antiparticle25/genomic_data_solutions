@@ -196,6 +196,8 @@ To get a sense of where these cases are most likely diagnosed or treated, I [com
 
 Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
 
+<br><br>
+
 <p align="center">
   <img src="files/samplecities_hospitals.png" alt="Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW" width="100%">
 </p>
