@@ -190,15 +190,12 @@ In particular, within Europe:
 - Every minute, cancer kills more than two people in the EU.
 - In 2021, 1.15 million people died from cancer in EU countries—making it the second-leading cause of death after cardiovascular disease.
 
-My goal is to understand how much is spent on sequencing at both country and regional levels within each country, using Germany as an initial example.
-
-I have obtained cancer data (2020) covering different types of cancer: lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterus, and non-Hodgkin lymphoma.  
-
-To have an idea where these cases most likely have been diagnosed, I compiled a list of hospitals across each region. Below are the top five hospitals by absolute number of cancer cases (diagnoses and/or treatment) in three federal regions of Germany—Berlin, Bavaria, and North Rhine-Westphalia (NRW).
+My aim is to better understand how much is being spent on genomic sequencing at both the national and regional levels across Europe, starting with Germany as a case study. For this, I have gathered cancer incidence data from 2020, covering major cancer types including lung, colorectal, ovarian, breast, prostate, pancreatic, melanoma, leukemia, uterine, and non-Hodgkin lymphoma.
+To get a sense of where these cases are most likely diagnosed or treated, I compiled a list of hospitals in each region. Below is a snapshot showing the top five hospitals by number of cancer-related cases (including both diagnoses and ongoing treatments) in three federal states: Berlin, Bavaria, and North Rhine-Westphalia (NRW):
 
 ![Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW](files/samplecities_hospitals.png)
 
-It is noticeable that in Berlin—which is a city-state, very urban, and densely populated—the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions comprise many different cities.
+It is noticeable that in Berlin—which is a city-state, urban, and densely populated, the majority of cases are concentrated in a few large hospitals, most prominently Charité (Europe’s largest university hospital). Meanwhile, in Bavaria and North Rhine-Westphalia, cancer-related care is spread out over numerous hospitals, reflecting the fact that these regions contain many different prominent cities.
 
 <details>
   <summary>Full distribution of hospital data across all of Germany’s federal states</summary>
