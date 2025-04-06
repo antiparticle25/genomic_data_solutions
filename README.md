@@ -210,7 +210,7 @@ Below is a snapshot showing the top five hospitals by number of cancer-related c
 <br><br>
 
 <p align="center">
-  <img src="files/samplecities_hospitals.png" alt="Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW" width="100%">
+  <img src="files/samplecities_hospitals.png" alt="Top 5 Hospitals by Cancer Case Volume in Berlin, Bavaria, NRW" width="150%">
 </p>
 
 <br><br>
