@@ -16,7 +16,7 @@ I won’t go into extensive detail here, as I am currently transitioning the pro
 ## Overview
 
 <details>
-<summary><strong>📑 Overview</strong></summary>
+<summary><strong>Overview</strong></summary>
 
 - [Sequencing Trends & Expenditure in Academic Research](#sequencing-trends--expenditure-in-academic-research)
 - [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
