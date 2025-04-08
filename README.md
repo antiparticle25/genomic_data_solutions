@@ -7,9 +7,8 @@ While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of stru
 
 Given the state of recent computational advancements, there are several tools that can provide a layer of **'dynamic intelligence'**, facilitating real-time database querying and summarization, automation of several processes, forecasting, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence).**
 
-This project aims to address such limitations across three core market segments - **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** - through generation of high-quality databases, actionable insights, and tools that would improve these two.
-I won't get into immense detail - for that I am working already on transitioning to a new platform, but would be happy to discuss the rationale and some of the ideas.
-
+This project aims to address such limitations across three core market segments - **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** - through the generation of high-quality databases, actionable insights, and tools designed to enhance these two domains.
+I won’t go into extensive detail here, as I am currently transitioning the project to a better organized platform, but would be happy to discuss the initial rationale and underlying concept.
 ---
 
 ## 1️. **Sequencing Trends & Expenditure in Academic Research** 
