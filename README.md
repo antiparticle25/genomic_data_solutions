@@ -1,16 +1,5 @@
 # Genomics Data Solutions for Research, Diagnostics & Industry
 
-## Overview
-
-- [Background](#background)
-- [Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
-- [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
-- [Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe](#sequencing-in-oncology--mapping-genomic-sequencing-expenditures-across-hospitals-and-clinics-in-europe)
-- [Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
-- [Integration with LLM Tools](#integration-with-llm-tools)
-
----
-
 ## Background
 The landscape of genomics and its applications is immensely vast, spanning **basic research, clinical diagnostics, and pharma/biotech innovation**. As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
@@ -21,6 +10,16 @@ Given the state of recent computational advancements, there are several tools th
 This project aims to address such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** — through the generation of high-quality databases, actionable insights, and tools designed to enhance these two domains.
 
 I won’t go into extensive detail here, as I am currently transitioning the project to a better organized platform, but would be happy to discuss the initial rationale and underlying concept.
+
+---
+
+## Overview
+
+- [Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
+- [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
+- [Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe](#sequencing-in-oncology--mapping-genomic-sequencing-expenditures-across-hospitals-and-clinics-in-europe)
+- [Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
+- [Integration with LLM Tools](#integration-with-llm-tools)
 
 ---
 
