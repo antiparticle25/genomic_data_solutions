@@ -1,5 +1,14 @@
 # Genomics Data Solutions for Research, Diagnostics & Industry
 
+## Project Overview
+
+- [Background](#background)
+- [Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
+- [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
+- [Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe](#sequencing-in-oncology--mapping-genomic-sequencing-expenditures-across-hospitals-and-clinics-in-europe)
+- [Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
+- [Integration with LLM Tools](#integration-with-llm-tools)
+
 ## Background
 The landscape of genomics and its applications is immensely vast, spanning **basic research, clinical diagnostics, and pharma/biotech innovation**. As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
