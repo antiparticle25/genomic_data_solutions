@@ -9,6 +9,8 @@
 - [Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
 - [Integration with LLM Tools](#integration-with-llm-tools)
 
+---
+
 ## Background
 The landscape of genomics and its applications is immensely vast, spanning **basic research, clinical diagnostics, and pharma/biotech innovation**. As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
