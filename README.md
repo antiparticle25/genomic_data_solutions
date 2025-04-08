@@ -1,4 +1,4 @@
-# Genomics Market Intelligence for Research, Diagnostics & Industry
+# Genomics Data Solutions for Research, Diagnostics & Industry
 
 ## Background
 The landscape of genomics and its applications is immensely vast, spanning **basic research, clinical diagnostics, and pharma/biotech innovation**. As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
