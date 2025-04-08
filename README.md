@@ -23,7 +23,7 @@ I won’t go into extensive detail here, as I am currently transitioning the pro
 
 ---
 
-## 1️. **Sequencing Trends & Expenditure in Academic Research** 
+## **Sequencing Trends & Expenditure in Academic Research** 
 
 ### Repository Metadata Database – Overview
 
