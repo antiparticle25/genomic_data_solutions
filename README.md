@@ -13,8 +13,6 @@ I won’t go into extensive detail here, as I am currently transitioning the pro
 
 ---
 
-## Overview
-
 <details>
 <summary><strong>Overview</strong></summary>
 
