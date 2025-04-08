@@ -1,6 +1,6 @@
 # Genomics Data Solutions for Research, Diagnostics & Industry
 
-## Project Overview
+## Overview
 
 - [Background](#background)
 - [Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
