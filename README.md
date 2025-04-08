@@ -15,11 +15,16 @@ I won’t go into extensive detail here, as I am currently transitioning the pro
 
 ## Overview
 
-- [Sequencing Trends & Expenditure in Academic Research](#1️-sequencing-trends--expenditure-in-academic-research)
+<details>
+<summary><strong>📑 Overview</strong></summary>
+
+- [Sequencing Trends & Expenditure in Academic Research](#sequencing-trends--expenditure-in-academic-research)
 - [Roche Sequencing by Extension (SBX) Technology](#roche-sequencing-by-extension-sbx-technology)
 - [Sequencing in Oncology – Mapping Genomic Sequencing Expenditures Across Hospitals and Clinics in Europe](#sequencing-in-oncology--mapping-genomic-sequencing-expenditures-across-hospitals-and-clinics-in-europe)
 - [Mapping Researchers, Methodologies, Institutes in a Graph Database (Neo4j)](#mapping-researchers-methodologies-institutes-in-a-graph-database-neo4j)
 - [Integration with LLM Tools](#integration-with-llm-tools)
+
+</details>
 
 ---
 
