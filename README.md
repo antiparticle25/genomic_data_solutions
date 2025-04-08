@@ -11,7 +11,6 @@ This project aims to address such limitations across three core market segments 
 
 I won’t go into extensive detail here, as I am currently transitioning the project to a better organized platform, but would be happy to discuss the initial rationale and underlying concept.
 
----
 
 <details>
 <summary><strong>Overview</strong></summary>
