@@ -30,7 +30,7 @@ I won’t go into extensive detail here, as I am currently transitioning the pro
 ### Repository Metadata Database – Overview
 
 **Note:** 
-**I am in the process of revisting the data, as my estimates are well far off. More important than absolute numbers, emphasis should be put on understanding trends and rates of change. **
+**I am in the process of revisting the data, as my estimates are well far off. More important than absolute numbers, emphasis should be put on understanding trends and rates of change.**
 
 <br><br>
 
