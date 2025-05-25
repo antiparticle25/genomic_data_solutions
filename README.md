@@ -3,13 +3,9 @@
 ## Background
 The landscape of genomics and its applications is immensely vast, spanning **basic research, clinical diagnostics, and pharma/biotech innovation**. As such, keeping track of technological advancements and emerging research directions — and by extension, accurately mapping market trends with granularity — **has become increasingly complex**.
 
-While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they are fundamentally **static** in nature. In addition, most industry reports, despite bold predictions, often lack transparency in methodology and grounding on data.
+While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they are fundamentally **static** in nature. Given the state of recent computational advancements, there are several tools that can provide a layer of **'dynamic intelligence'**, facilitating real-time database querying and summarization, automation of several processes, forecasting, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence).**
 
-Given the state of recent computational advancements, there are several tools that can provide a layer of **'dynamic intelligence'**, facilitating real-time database querying and summarization, automation of several processes, forecasting, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence).**
-
-This project aims to address such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** — through the generation of high-quality databases, actionable insights, and tools designed to enhance these two domains.
-
-I won’t go into extensive detail here, as I am currently transitioning the project to a better organized platform, but would be happy to discuss the initial rationale and underlying concept.
+This project aims to briefly showcase my interest in addressing such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** — through the generation of high-quality databases, actionable insights, and tools designed to enhance these two domains.
 
 
 <details>
