@@ -171,15 +171,7 @@ Three assumptions are considered:
 - **No Overhead (0%)**: Roche matches current reagent pricing  
 - **High Overhead (35%)**: Roche prices SBX reagents at 35% above baseline
 
-![Roche SBX Revenue Potential](files/comparison_roche_platforms.png)
-
-<details>
-  <summary><strong>Roche SBX Revenue Scenarios Summary</strong></summary>
-
-  <p align="center">
-    <img src="files/table_roche_revenue.png" alt="Roche Revenue Table" width="80%">
-  </p>
-</details>
+![Roche SBX Revenue Potential](files/sbx_market_opportunity_2024.png)
 
 ---
 
