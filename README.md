@@ -5,7 +5,11 @@ The landscape of genomics and its applications is immensely vast, spanning **bas
 
 While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they are fundamentally **static** in nature. Given the state of recent computational advancements, there are several tools that can provide a layer of **'dynamic intelligence'**, facilitating real-time database querying and summarization, automation of several processes, forecasting, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence).**
 
-This project aims to briefly showcase my interest in addressing such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech** — through the generation of high-quality databases, actionable insights, and tools designed to enhance these two domains.
+This project aims to briefly showcase my interest in addressing such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech**, under three pillars:
+
+1. Generation of high-quality databases
+2. Direct, traditional extraction of insight via data querying, extraction, visualization
+3. Development of LLM and agentic-based tools for easy querying and enhanced insights (under development)
 
 
 <details>
@@ -26,7 +30,7 @@ This project aims to briefly showcase my interest in addressing such limitations
 ### Repository Metadata Database – Overview
 
 **Note:** 
-**I am in the process of revisting the data, as my estimates are well far off. More important than absolute numbers, emphasis should be put on understanding trends and rates of change.**
+**More important than absolute numbers, emphasis should be put on understanding trends and rates of change. Some fundamental approximates were made, given the lack of information (e.g. flowcell utilization, academic discount packages, ... **
 
 <br><br>
 
