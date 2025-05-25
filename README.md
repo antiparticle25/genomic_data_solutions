@@ -30,7 +30,7 @@ This project aims to briefly showcase my interest in addressing such limitations
 ### Repository Metadata Database – Overview
 
 **Note:** 
-**More important than absolute numbers, emphasis should be put on understanding trends and rates of change. Some fundamental approximates were made, given the lack of information (e.g. flowcell utilization, academic discount packages, ... **
+**More important than absolute numbers, emphasis should be put on understanding trends and rates of change. Some fundamental approximates were made, given the lack of information (e.g. flowcell utilization, academic discount packages, ...**
 
 <br><br>
 
