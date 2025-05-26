@@ -39,7 +39,7 @@ Taking advantage of public datasets, I have collected **sequencing metadata** es
 **Cost estimations** were derived using custom formulas tailored to each sequencing platform and, where possible, **adjusted for sample preparation methods and price changes throughout the years**.
 
 
-Below are **key plots** highlighting important trends, expenditures, and areas of potential technological disruption:
+Below are some key plots highlighting important trends, expenditures, and potential areas of potential technological disruption:
 
 ### **Annual Sequencing Expenditure and Instrument Breakdown**
 
