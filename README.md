@@ -141,7 +141,6 @@ To contextualize its cost-efficiency, I compared Roche’s estimated €2.00/Gb 
 
 Cost per Gigabase Across Sequencing Platforms (2024)
 <p align="center"> <img src="files/cost_per_gb_2024.png" alt="Cost per Gb by Instrument Model" width="80%"> </p>
-Roche SBX appears at the lowest end of the projected reagent cost spectrum (€2.00/Gb), below Illumina’s NovaSeq X Plus (€2.94/Gb), and well below mid-scale platforms like MiSeq (>€100/Gb) or long-read systems such as PacBio Sequel II (>€16/Gb). While this estimate excludes library prep and capital amortization, it demonstrates Roche’s intent to disrupt the economics of high-throughput sequencing.
 
 Time to Generate ~200 Gbp: SBX vs Existing Instruments
 <p align="center"> <img src="files/time_gb.png" alt="Time Comparison for 200 Gbp" width="85%"> </p>
