@@ -7,9 +7,9 @@ While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of stru
 
 This project aims to briefly showcase my interest in addressing such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech**, under three pillars:
 
-1. Generation of high-quality databases
-2. Direct, traditional extraction of insight via data querying, extraction, visualization
-3. Development of LLM and agentic-based tools for easy querying and enhanced insights (under development)
+**1. Generation of high-quality databases**
+**2. Direct, traditional extraction of insight via data querying, extraction, visualization**
+**3. Development of LLM and agentic-based tools for easy querying and enhanced insights (under development)**
 
 
 <details>
