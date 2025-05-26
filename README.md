@@ -32,7 +32,6 @@ This project aims to briefly showcase my interest in addressing such limitations
 **Note:** 
 **More important than absolute numbers, emphasis should be put on understanding trends and rates of change. Some fundamental approximates were made, given the lack of information (e.g. flowcell utilization, academic discount packages, ...)**
 
-<br><br>
 
 Taking advantage of public datasets, I have collected **sequencing metadata** estimated to cover approximately 95% of all experiments present in major repositories from 2016 to 2025. This accounts for **~3 × 10¹⁴ reads**, **~30 million runs**, **~30 million experiments**.
 
