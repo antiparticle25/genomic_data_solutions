@@ -5,12 +5,11 @@ The landscape of genomics and its applications is immensely vast, spanning **bas
 
 While several platforms (e.g., **PubGrade, BiotechGate**) offer a wealth of structured information, they are fundamentally **static** in nature. Given the state of recent computational advancements, there are several tools that can provide a layer of **'dynamic intelligence'**, facilitating real-time database querying and summarization, automation of several processes, forecasting, and ultimately, **actionable insights (e.g., strategic planning, investment guidance, competitive intelligence).**
 
-This project aims to briefly showcase my interest in addressing such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, **Pharma/Biotech**, under three pillars:
+This project aims to briefly showcase my interest in addressing such limitations across three core market segments — **Academic Research**, **Cancer Diagnostics across Europe**, and **Pharma/Biotech** — under three pillars:
 
-**1. Generation of high-quality databases**
-**2. Direct, traditional extraction of insight via data querying, extraction, visualization**
-**3. Development of LLM and agentic-based tools for easy querying and enhanced insights (under development)**
-
+- **Generation of high-quality databases**  
+- **Direct, traditional extraction of insight via data querying, extraction, visualization**  
+- **Development of LLM and agentic-based tools for easy querying and enhanced insights (under development)**
 
 <details>
 <summary><strong>Overview</strong></summary>
