@@ -155,8 +155,9 @@ I have also looked at potential revenue that Roche could generate from its SBX p
 - **PacBio (RS II, Sequel, Sequel II, Revio)**
 - **Oxford Nanopore (MinION, GridION, PromethION)**
 
-
-![Roche SBX Revenue Potential](files/sbx_market_opportunity_2024.png)
+<p align="center">
+  <img src="files/sbx_market_opportunity_2024.png" alt="SBX Market Displacement Revenue Scenarios" width="70%">
+</p>
 
 ---
 
