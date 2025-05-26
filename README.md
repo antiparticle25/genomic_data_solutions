@@ -137,25 +137,15 @@ Different sequencing platforms compared in terms of total output and read charac
 
 **Roche** has recently launched a new sequencing platform with the potential not only to position itself as a competitor in the genomics space, but to define a new category on its own. It is a nanopore-based method that leverages a novel sequencing chemistry (Xpandomer-based SBX) and a high-throughput CMOS sensor module, **enabling single-molecule electrical detection with short-read-like accuracy**.
 
-To explore where SBX may position itself relative to current sequencing platforms, I generated a set of exploratory plots based on Roche's publicly stated performance claims:
+To contextualize its cost-efficiency, I compared Roche’s estimated €2.00/Gb reagent cost (2024, run-level only) against all major current sequencing platforms using curated ENA metadata and updated vendor pricing assumptions.
 
+Cost per Gigabase Across Sequencing Platforms (2024)
+<p align="center"> <img src="files/cost_per_gb_2024.png" alt="Cost per Gb by Instrument Model" width="80%"> </p>
+Roche SBX appears at the lowest end of the projected reagent cost spectrum (€2.00/Gb), below Illumina’s NovaSeq X Plus (€2.94/Gb), and well below mid-scale platforms like MiSeq (>€100/Gb) or long-read systems such as PacBio Sequel II (>€16/Gb). While this estimate excludes library prep and capital amortization, it demonstrates Roche’s intent to disrupt the economics of high-throughput sequencing.
 
-### SBX Technology Projected Performance vs. Current Platforms
-
-<p align="center">
-  <img src="files/roche.png" alt="SBX Technology Comparison" width="100%">
-</p>
-
-Hypothetical overlay of **Roche’s Sequencing by Expansion (SBX)** technology, showcasing its potential range for throughput and cost-efficiency.
-At 200 Gbp/hour and an estimated cost of €400–€1200 per run, it is possible to observe that very few sequencing runs fall in this thoughput-cost region. Note: SBX cost estimates reflect reagent-run expenses only - I will revisit this plot accounting for library prep. 
-
-
-### Time to Generate ~200 Gbps: SBX vs Existing Instruments
-
-<p align="center">
-  <img src="files/time_gb.png" alt="Time Comparison for 200 Gbp" width="85%">
-</p>
-
+Time to Generate ~200 Gbp: SBX vs Existing Instruments
+<p align="center"> <img src="files/time_gb.png" alt="Time Comparison for 200 Gbp" width="85%"> </p>
+Projected instrument-level throughput for a 200 Gbp target. SBX would outperform even NovaSeq X in raw speed, assuming Roche’s 200 Gbp/hour claim is met. This makes SBX one of the fastest short-read-compatible platforms currently envisioned — with implications for turnaround time and batch processing.
 ### Roche SBX Revenue Scenarios by Market Share and Reagent Overhead
 
 I have also looked at potential revenue that Roche could generate from its SBX platform considering if it captures between 5% and 25% of the 2024 sequencing market currently served by major competitors. Each subplot represents a competing platform class:
@@ -165,10 +155,6 @@ I have also looked at potential revenue that Roche could generate from its SBX p
 - **PacBio (RS, Sequel, Revio)**
 - **Oxford Nanopore (MinION, GridION, PromethION)**
 
-Three assumptions are considered:
-- **Base (20%)**: Roche charges ~20% more for specialized SBX reagents (Xpandomers might be costly)
-- **No Overhead (0%)**: Roche matches current reagent pricing  
-- **High Overhead (35%)**: Roche prices SBX reagents at 35% above baseline
 
 ![Roche SBX Revenue Potential](files/sbx_market_opportunity_2024.png)
 
