@@ -145,6 +145,7 @@ Cost per Gigabase Across Sequencing Platforms (2024)
 Time to Generate ~200 Gbp: SBX vs Existing Instruments
 <p align="center"> <img src="files/time_gb.png" alt="Time Comparison for 200 Gbp" width="85%"> </p>
 Projected instrument-level throughput for a 200 Gbp target. SBX would outperform even NovaSeq X in raw speed, assuming Roche’s 200 Gbp/hour claim is met. This makes SBX one of the fastest short-read-compatible platforms currently envisioned — with implications for turnaround time and batch processing.
+
 ### Roche SBX Revenue Scenarios by Market Share and Reagent Overhead
 
 I have also looked at potential revenue that Roche could generate from its SBX platform considering if it captures between 5% and 25% of the 2024 sequencing market currently served by major competitors. Each subplot represents a competing platform class:
