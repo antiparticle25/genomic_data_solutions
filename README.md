@@ -61,12 +61,12 @@ Below are some key plots highlighting important trends, expenditures, and potent
 
 <p align="center"> <img src="files/bubble_expenditure_bases.png" alt="Bubble plot: Cost per Gb vs Total Bases Sequenced" width="95%"> </p>
 
-This bubble plot summarizes real-world cost-efficiency across sequencing platforms. Each bubble represents an instrument model, positioned by its average cost per gigabase (y-axis, log scale) and total bases sequenced (x-axis). Bubble size reflects usage volume.
+Bubble plot summarizing cost-efficiency across sequencing platforms. Each bubble represents an instrument model, positioned by its average cost per gigabase (y-axis, log scale) and total bases sequenced (x-axis). Bubble size reflects usage volume.
 High-throughput platforms (e.g., NovaSeq, HiSeq X) appear in the bottom-right quadrant, showing strong cost-efficiency. Older or low-throughput systems (e.g., MiSeq, Genome Analyzer II) show higher per-Gb costs, while long-read platforms (e.g., PacBio Sequel II) occupy distinct mid-throughput, higher-cost territory.
 
 <p align="center"> <img src="files/cost_vs_readlen_scatter_clean.png" alt="Experiment Cost vs Average Read Length" width="80%"> </p>
 
-This scatterplot shows the relationship between average read length and experiment-level sequencing cost, across platforms.
+Scatterplot showing the relationship between average read length and experiment-level sequencing cost, across platforms.
 Short-read technologies (Illumina, MGI, ThermoFisher) dominate the low-read-length region (~100–300 bp), covering a broad range of costs. Long-read technologies (PacBio, Oxford Nanopore) cluster at longer read lengths and higher cost variability, reflecting their niche in complex or structure-resolving sequencing.
 <br><br>
 
