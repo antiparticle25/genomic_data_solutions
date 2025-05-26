@@ -151,8 +151,8 @@ Projected instrument-level throughput for a 200 Gbp target. SBX would outperform
 I have also looked at potential revenue that Roche could generate from its SBX platform considering if it captures between 5% and 25% of the 2024 sequencing market currently served by major competitors. Each subplot represents a competing platform class:
 
 - **Illumina NovaSeq (6000, X, X Plus)**
-- **BGI/MGI (BGISEQ, DNBSEQ, MGISEQ)**
-- **PacBio (RS, Sequel, Revio)**
+- **BGI/MGI (BGISEQ, DNBSEQ-G400, DNBSEQ-G50, DNBSEQ-T7, MGISEQ-2000RS)**
+- **PacBio (RS II, Sequel, Sequel II, Revio)**
 - **Oxford Nanopore (MinION, GridION, PromethION)**
 
 
